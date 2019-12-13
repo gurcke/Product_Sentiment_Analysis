@@ -1,0 +1,809 @@
+;tweet;label;tweet_spacy;score (positive);prediction
+0;anyway i got a pair of sony  mdr7506 ’s;{'POSITIVE': True};anyway i got a pair of sony  mdr7506 ’s;0.4342416822910309;False
+1;"I saw the SB commercial for (probably overpriced) headphones. If you're looking for decent headphones, you can't go wrong with the Sony  MDR7506 . They're in practically every studio I've ever been in, and almost bullet proof. Usually around $80.
+
+Just my semi-educated two cents.";{'POSITIVE': False};"I saw the SB commercial for (probably overpriced) headphones. If you're looking for decent headphones, you can't go wrong with the Sony  MDR7506 . They're in practically every studio I've ever been in, and almost bullet proof. Usually around $80.
+
+Just my semi-educated two cents.";0.39390289783477783;False
+2;Well, it’s happened: I’ve been podcasting long enough that I finally went through my first pair of headphones. My first pair of Sony  MDR7506  just died in its left ear.;{'POSITIVE': True};Well, it’s happened: I’ve been podcasting long enough that I finally went through my first pair of headphones. My first pair of Sony  MDR7506  just died in its left ear.;0.8022123575210571;True
+3;My  mdr7506 ’s right ear blew and my other pair of headphones jack bent haha shiiiiiet;{'POSITIVE': False};My  mdr7506 ’s right ear blew and my other pair of headphones jack bent haha shiiiiiet;0.6699621081352234;True
+4;smh my  mdr7506  headphone cable started glitching in and out so i bought a pack of 10 female headphone jacks and im gonna make it so u can use a replaceable male-male 3.5 mm cable;{'POSITIVE': False};smh my  mdr7506  headphone cable started glitching in and out so i bought a pack of 10 female headphone jacks and im gonna make it so u can use a replaceable male-male 3.5 mm cable;0.3660910129547119;False
+5;I tell you HuWhat! These damn Headphones are the best I've tested and owned. Can't believe I replaced my Audio Technica. I'm hearing stuff I haven't heard before LOL -- Sony  MDR7506  Professional Large Diaphragm Headphone Sony  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_dp_U_x_c9YWAbAFS1GEQ   …  via @amazon;{'POSITIVE': False};I tell you HuWhat! These damn Headphones are the best I've tested and owned. Can't believe I replaced my Audio Technica. I'm hearing stuff I haven't heard before LOL -- Sony  MDR7506  Professional Large Diaphragm Headphone Sony  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_dp_U_x_c9YWAbAFS1GEQ   …  via @amazon;0.5975722670555115;True
+6;"got Sony  MDR7506  professional headphones because of reviews and ok price ($80)
+
+Either i'm crazy or i now hear how pianist BREATHES and moves on chair in this track  https:// open.spotify.com/track/7n92QzQo mRCLlciO14X0kd?si=XfzKd7h7Rrmm8BE5qWd5ag   … 
+
+i really really hope i'll get used to it, otherwise it's a facepalm.jpg";{'POSITIVE': False};"got Sony  MDR7506  professional headphones because of reviews and ok price ($80)
+
+Either i'm crazy or i now hear how pianist BREATHES and moves on chair in this track  https:// open.spotify.com/track/7n92QzQo mRCLlciO14X0kd?si=XfzKd7h7Rrmm8BE5qWd5ag   … 
+
+i really really hope i'll get used to it, otherwise it's a facepalm.jpg";0.730351448059082;True
+7;2 of Sony  MDR7506  headphones, Focusrite Scarlett 2i2 USB audio interface, 4 of Shure SM58 mics & covers. any suggestions?  https:// twitter.com/NanosauR/statu s/969367638353719297   …;{'POSITIVE': True};2 of Sony  MDR7506  headphones, Focusrite Scarlett 2i2 USB audio interface, 4 of Shure SM58 mics & covers. any suggestions?  https:// twitter.com/NanosauR/statu s/969367638353719297   …;0.8435099720954895;True
+8;"What’s your price range? The Wirecutter likes the Sony WH-H900:  https:// thewirecutter.com/reviews/best-b luetooth-headphones/   … 
+$300 new at Amazon, $200 at Costco, $150 refurbished.
+Guessing you don’t want corded + a Bluetooth adapter, but Sony  MDR7506  + Avantree Clipper Pro would be affordable if that’s ok";{'POSITIVE': True};"What’s your price range? The Wirecutter likes the Sony WH-H900:  https:// thewirecutter.com/reviews/best-b luetooth-headphones/   … 
+$300 new at Amazon, $200 at Costco, $150 refurbished.
+Guessing you don’t want corded + a Bluetooth adapter, but Sony  MDR7506  + Avantree Clipper Pro would be affordable if that’s ok";0.9501435160636902;True
+9;Found out that my favorite studio headphones (Sony’s  MDR7506 ) are currently on sale at  http:// Amazon.com    thanks to @wirecutter , so I picked up another pair. Mine have lasted nearly 25 years and (with only one pad change) are still going strong!  https://www. amazon.com/dp/B000AJIF4E/ ?tag=wcedeals-20&utm_source=Deals+We+Love&utm_campaign=d74855eb7f-DEALS_2018_03_08&utm_medium=email&utm_term=0_97ed68eaf3-d74855eb7f-87677745   …;{'POSITIVE': False};Found out that my favorite studio headphones (Sony’s  MDR7506 ) are currently on sale at  http:// Amazon.com    thanks to @wirecutter , so I picked up another pair. Mine have lasted nearly 25 years and (with only one pad change) are still going strong!  https://www. amazon.com/dp/B000AJIF4E/ ?tag=wcedeals-20&utm_source=Deals+We+Love&utm_campaign=d74855eb7f-DEALS_2018_03_08&utm_medium=email&utm_term=0_97ed68eaf3-d74855eb7f-87677745   …;0.9070501327514648;True
+10;"Laying in best with my  MDR7506 's on my ears getting lost in acoustic bliss.
+
+This feels good.";{'POSITIVE': False};"Laying in best with my  MDR7506 's on my ears getting lost in acoustic bliss.
+
+This feels good.";0.5967531800270081;True
+11;Sony  MDR7506  for producing, and this for DJing  pic.twitter.com/xeTMCCpUpS;{'POSITIVE': True};Sony  MDR7506  for producing, and this for DJing  pic.twitter.com/xeTMCCpUpS;0.5787731409072876;True
+12;convienient, I just dumped all my dogecoin to cop a novation launchpad and some sony  mdr7506 's to go with this usb microphone;{'POSITIVE': True};convienient, I just dumped all my dogecoin to cop a novation launchpad and some sony  mdr7506 's to go with this usb microphone;0.4742515981197357;False
+13;At work we use Sony  MDR7506  and they are good enough. For 200 I would say grab some Audio Technica ATH-M40x for $100 or even better the Audio Technica ATH-M50x for $149;{'POSITIVE': False};At work we use Sony  MDR7506  and they are good enough. For 200 I would say grab some Audio Technica ATH-M40x for $100 or even better the Audio Technica ATH-M50x for $149;0.8287827968597412;True
+14;My  MDR7506  are studio headphones.   It's one of @Sony  best work to date. But the new headphones they make are  https:// twitter.com/aolapite/statu s/1050732433761538049   …;{'POSITIVE': False};My  MDR7506  are studio headphones.   It's one of @Sony  best work to date. But the new headphones they make are  https:// twitter.com/aolapite/statu s/1050732433761538049   …;0.7380095720291138;True
+15;I’ve been using Sony  MDR7506  for years and they’re outstanding. Always said Beats are crap and Bose overrated in general.  https:// twitter.com/time/status/94 7123916446879745   …;{'POSITIVE': False};I’ve been using Sony  MDR7506  for years and they’re outstanding. Always said Beats are crap and Bose overrated in general.  https:// twitter.com/time/status/94 7123916446879745   …;0.4867958426475525;False
+16;Getting rid of the ATH-M40x and getting the Sony  MDR7506 . Couldn't stand the way the earcups swiveled on the ATs.  pic.twitter.com/U5ib1lOmz8;{'POSITIVE': True};Getting rid of the ATH-M40x and getting the Sony  MDR7506 . Couldn't stand the way the earcups swiveled on the ATs.  pic.twitter.com/U5ib1lOmz8;0.45144516229629517;False
+17;if you can swing it, Sony  MDR7506  for like $100 are the best headphones ever. beats sound like total fucking garbage, would take $20 sony's over beats;{'POSITIVE': False};if you can swing it, Sony  MDR7506  for like $100 are the best headphones ever. beats sound like total fucking garbage, would take $20 sony's over beats;0.34017306566238403;False
+18;My daily goto’s are the Bose QCs and the Sony  MDR7506 .;{'POSITIVE': True};My daily goto’s are the Bose QCs and the Sony  MDR7506 .;0.40393704175949097;False
+19;"I uploaded the sound source at bullet's.
+bullet'sen vol.115 NO.2 / kuriyura-mono
+ https:// youtu.be/gdIrKAPrV38   
+#ambient  #minimal  #primitive  #noise  #ableton  #akai  #apc40  #push  #motu  #mdr7506  #sony  #focusrite  #macbookpro  #nishiazabu  #tokyo  #japan";{'POSITIVE': True};"I uploaded the sound source at bullet's.
+bullet'sen vol.115 NO.2 / kuriyura-mono
+ https:// youtu.be/gdIrKAPrV38   
+#ambient  #minimal  #primitive  #noise  #ableton  #akai  #apc40  #push  #motu  #mdr7506  #sony  #focusrite  #macbookpro  #nishiazabu  #tokyo  #japan";0.9999349117279053;True
+20;US: Sony  MDR7506  Professional Large Diaphragm Headphone  https:// amzn.to/2BPRjVb  ;{'POSITIVE': True};US: Sony  MDR7506  Professional Large Diaphragm Headphone  https:// amzn.to/2BPRjVb  ;0.8775936365127563;True
+21;Sony  MDR7506 , about 100 bucks, a standby for years;{'POSITIVE': False};Sony  MDR7506 , about 100 bucks, a standby for years;0.43070128560066223;False
+22;Still time to take em back and get the  MDR7506;{'POSITIVE': True};Still time to take em back and get the  MDR7506;0.4463285803794861;False
+23;Sony  MDR7506  Professional Large Diaphragm #Headphones  (International Model)  #dj  #amazondeals  #amazon  #like4follow  #likeforfollow  #like4like  #likeme  Get it at  https:// amzn.to/2KhSED2     https://www. instagram.com/p/Bl8PjTXHWHJ/ ?utm_source=ig_twitter_share&igshid=1hw9fqgwjxq15   …;{'POSITIVE': True};Sony  MDR7506  Professional Large Diaphragm #Headphones  (International Model)  #dj  #amazondeals  #amazon  #like4follow  #likeforfollow  #like4like  #likeme  Get it at  https:// amzn.to/2KhSED2     https://www. instagram.com/p/Bl8PjTXHWHJ/ ?utm_source=ig_twitter_share&igshid=1hw9fqgwjxq15   …;0.9997485280036926;True
+24;"So good for hears  Du bon pour les oreilles ! Sony Studio Monitoring  MDR7506   
+#sony  #sounds  #soundhousestudio  #mixing  #mixage  #production pic.twitter.com/I78pUyDUjt";{'POSITIVE': True};"So good for hears  Du bon pour les oreilles ! Sony Studio Monitoring  MDR7506   
+#sony  #sounds  #soundhousestudio  #mixing  #mixage  #production pic.twitter.com/I78pUyDUjt";0.9687645435333252;True
+25;"#10: Sony  MDR7506  Professional Large Diaphragm Headphone
+
+Sony  MDR7506  Professional Large Diaphragm Headphone
+by Sony
+(4706)
+
+Buy new: $130.00 Click to see price
+14 used & new from $65.99
+
+(Visit the Best Sellers in Musical Instruments list for authorita…  https:// ift.tt/2b62vuo   pic.twitter.com/9pa6vl2Oj2";{'POSITIVE': True};"#10: Sony  MDR7506  Professional Large Diaphragm Headphone
+
+Sony  MDR7506  Professional Large Diaphragm Headphone
+by Sony
+(4706)
+
+Buy new: $130.00 Click to see price
+14 used & new from $65.99
+
+(Visit the Best Sellers in Musical Instruments list for authorita…  https:// ift.tt/2b62vuo   pic.twitter.com/9pa6vl2Oj2";0.9865072965621948;True
+26;Or Sony  MDR7506  for around $80, a classic studio workhorse that will sound better and last a lot longer than Beats.;{'POSITIVE': False};Or Sony  MDR7506  for around $80, a classic studio workhorse that will sound better and last a lot longer than Beats.;0.6764335632324219;True
+27;Bro a good pair of headphones can be good in the meantime. Sony  MDR7506  like $60 used;{'POSITIVE': True};Bro a good pair of headphones can be good in the meantime. Sony  MDR7506  like $60 used;0.5253199338912964;True
+28;The Sony  MDR7506  is all I've ever needed for closed-back tbh. You can wear them for 8hours straight if you want and they're cheap;{'POSITIVE': False};The Sony  MDR7506  is all I've ever needed for closed-back tbh. You can wear them for 8hours straight if you want and they're cheap;0.16882245242595673;False
+29;TMA 2 DJ for DJ and Sony  MDR7506  at home. Love the MDRs but cause fatigue. They are somewhat piercing when DJing with them for long periods.;{'POSITIVE': False};TMA 2 DJ for DJ and Sony  MDR7506  at home. Love the MDRs but cause fatigue. They are somewhat piercing when DJing with them for long periods.;0.2220885008573532;False
+30;*whispering* Sony  MDR7506;{'POSITIVE': True};*whispering* Sony  MDR7506;0.4417712986469269;False
+31;Just switched to monitors after 7 years of using the sony  mdr7506  headphones. I'm feeling the switcj right now but I don't know...;{'POSITIVE': True};Just switched to monitors after 7 years of using the sony  mdr7506  headphones. I'm feeling the switcj right now but I don't know...;0.33625438809394836;False
+32;Gonna be giving these a go, Sony  MDR7506 ! My other pair are AT M50X. #VoiceActors  , what headphones are y'all using? pic.twitter.com/1BcQB6ADYN;{'POSITIVE': False};Gonna be giving these a go, Sony  MDR7506 ! My other pair are AT M50X. #VoiceActors  , what headphones are y'all using? pic.twitter.com/1BcQB6ADYN;0.7777560353279114;True
+33;"AKG K 240. Amazon. ...
+
+Grado SR80e. Amazon. ...
+
+JVC HAFX40B. Amazon. ...
+
+TASCAM TH02-B. Amazon. ...
+
+Monoprice Over-the-Ear Pro Headphone Bundle. Amazon. ...
+
+Philips CitiScape Downtown. Amazon. ...
+
+Creative Aurvana Live! Amazon. ...
+
+Sony  MDR7506  Professional Large Diaphra";{'POSITIVE': True};"AKG K 240. Amazon. ...
+
+Grado SR80e. Amazon. ...
+
+JVC HAFX40B. Amazon. ...
+
+TASCAM TH02-B. Amazon. ...
+
+Monoprice Over-the-Ear Pro Headphone Bundle. Amazon. ...
+
+Philips CitiScape Downtown. Amazon. ...
+
+Creative Aurvana Live! Amazon. ...
+
+Sony  MDR7506  Professional Large Diaphra";0.9859961867332458;True
+34;Can’t go wrong with these he Sony  MdR7506 ’s. i believe its about $80 from B&H;{'POSITIVE': True};Can’t go wrong with these he Sony  MdR7506 ’s. i believe its about $80 from B&H;0.6283478140830994;True
+35;"Sennheiser HD25 is what almost everyone I know uses. fwiw, I use a Sony  MDR7506 . Neither exactly cheap, but your mastering engineer will thank you for it ;-)";{'POSITIVE': False};"Sennheiser HD25 is what almost everyone I know uses. fwiw, I use a Sony  MDR7506 . Neither exactly cheap, but your mastering engineer will thank you for it ;-)";0.38910621404647827;False
+36;He's in the market for new headphones. I'll make sure he looks at the Sony  MDR7506 .;{'POSITIVE': True};He's in the market for new headphones. I'll make sure he looks at the Sony  MDR7506 .;0.46853962540626526;False
+37;I've been hesitating on purchasing the CL-1 or CL-2. Will most likely pick up a pair of Sony  MDR7506  headphones at some point.;{'POSITIVE': True};I've been hesitating on purchasing the CL-1 or CL-2. Will most likely pick up a pair of Sony  MDR7506  headphones at some point.;0.6535694003105164;True
+38;"I love the Sony  MDR7506 . There quite versatile and have very little noise leak:
+
+ https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_cp_api_i_XsG3BbBDNPNYA   …";{'POSITIVE': False};"I love the Sony  MDR7506 . There quite versatile and have very little noise leak:
+
+ https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_cp_api_i_XsG3BbBDNPNYA   …";0.36685752868652344;False
+39;ive been using a Sony  MDR7506  (80usd i believe) since 2016, and its given no trouble. its cord feels endless, but not in the way. theres no spot in my room they wont reach from my comp lmao;{'POSITIVE': False};ive been using a Sony  MDR7506  (80usd i believe) since 2016, and its given no trouble. its cord feels endless, but not in the way. theres no spot in my room they wont reach from my comp lmao;0.2085016518831253;False
+40;"Sennheiser is a solid audio brand. These Sonys are pretty ubiquitous in recording studios.
+Sony  MDR7506  Professional Large Diaphragm Headphone  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_cp_apa_DyzNBbRBHFY36   …";{'POSITIVE': True};"Sennheiser is a solid audio brand. These Sonys are pretty ubiquitous in recording studios.
+Sony  MDR7506  Professional Large Diaphragm Headphone  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_cp_apa_DyzNBbRBHFY36   …";0.8774547576904297;True
+41;http:// amazon.com/dp/B002DP8IEK? tag=amausrecman-20&_encoding=UTF8&tag=amausrecman-20&linkCode=ur2   …  I took a #chance  on the #SRH840s , even #though  they're #pricey .  I #wanted  them for #podcasting  use to #monitor  #voice  via #sound  #board , and I've been #impressed  with #other  #Shure  #products .  The Sony #MDR7506  was my #second  #choice , but I've had #terr …;{'POSITIVE': False};http:// amazon.com/dp/B002DP8IEK? tag=amausrecman-20&_encoding=UTF8&tag=amausrecman-20&linkCode=ur2   …  I took a #chance  on the #SRH840s , even #though  they're #pricey .  I #wanted  them for #podcasting  use to #monitor  #voice  via #sound  #board , and I've been #impressed  with #other  #Shure  #products .  The Sony #MDR7506  was my #second  #choice , but I've had #terr …;0.9998121857643127;True
+42;Madd luv Areli my partner in crime music..i will also b donated a pair of Sony  mdr7506  studio monitor headphones..to the first person to buy the album i its entirety..subject rules constitutes..someone who is a tru fan..not just someone looking for free ish..so The Stoner Poet;{'POSITIVE': True};Madd luv Areli my partner in crime music..i will also b donated a pair of Sony  mdr7506  studio monitor headphones..to the first person to buy the album i its entirety..subject rules constitutes..someone who is a tru fan..not just someone looking for free ish..so The Stoner Poet;0.4555918276309967;False
+43;"Another successful headphones refurbishment. This time a pair of classic #SONY  #MDR7506  #legendaryheadphones  
+This was a much trickier job than the previous #sennheisers  I repaired, took…  https://www. instagram.com/p/Blb8eaKAV82/ ?utm_source=ig_twitter_share&igshid=fbr0l91jyvu6   …";{'POSITIVE': False};"Another successful headphones refurbishment. This time a pair of classic #SONY  #MDR7506  #legendaryheadphones  
+This was a much trickier job than the previous #sennheisers  I repaired, took…  https://www. instagram.com/p/Blb8eaKAV82/ ?utm_source=ig_twitter_share&igshid=fbr0l91jyvu6   …";0.8874549865722656;True
+44;Sony  MDR7506 /v6. Under $100USD, closed over-the-ear, and flat response. Been using them for over 20 years. Comfy, light, sound great, if they die you didn't spend a ton.;{'POSITIVE': False};Sony  MDR7506 /v6. Under $100USD, closed over-the-ear, and flat response. Been using them for over 20 years. Comfy, light, sound great, if they die you didn't spend a ton.;0.1015731543302536;False
+45;"Speaking of...here's what I use:
+
+- WASD Code 87 brown keyboard:  https://www. amazon.com/87-Key-Illumin ated-Mechanical-Keyboard-Backlighting/dp/B00UUBIM0E/ref=sr_1_1?ie=UTF8&qid=1531068134&sr=8-1&keywords=wasd+code+87+brown   … 
+- Kensington Design Mouse:  https://www. amazon.com/Kensington-Exp ert-Trackball-Mouse-K64325/dp/B00009KH63/ref=sr_1_1?s=electronics&ie=UTF8&qid=1531068149&sr=1-1&keywords=kensington+trackball   … 
+- Sony  MDR7506  Professional Headphones:  https://www. amazon.com/gp/product/B00 0AJIF4E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1   …";{'POSITIVE': True};"Speaking of...here's what I use:
+
+- WASD Code 87 brown keyboard:  https://www. amazon.com/87-Key-Illumin ated-Mechanical-Keyboard-Backlighting/dp/B00UUBIM0E/ref=sr_1_1?ie=UTF8&qid=1531068134&sr=8-1&keywords=wasd+code+87+brown   … 
+- Kensington Design Mouse:  https://www. amazon.com/Kensington-Exp ert-Trackball-Mouse-K64325/dp/B00009KH63/ref=sr_1_1?s=electronics&ie=UTF8&qid=1531068149&sr=1-1&keywords=kensington+trackball   … 
+- Sony  MDR7506  Professional Headphones:  https://www. amazon.com/gp/product/B00 0AJIF4E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1   …";0.999363362789154;True
+46;"heard good things about Sony  MDR7506  – I’ll probably be picking a pair up at some point? Downside is no removable cord
+
+There’s so many seemingly-identical good options out there";{'POSITIVE': False};"heard good things about Sony  MDR7506  – I’ll probably be picking a pair up at some point? Downside is no removable cord
+
+There’s so many seemingly-identical good options out there";0.389051616191864;False
+47;The Audio-Technica ATH-M40Xs are the best sub-$100 headphones I've used. The Sony  MDR7506  is considered the industry standard for studio use.;{'POSITIVE': True};The Audio-Technica ATH-M40Xs are the best sub-$100 headphones I've used. The Sony  MDR7506  is considered the industry standard for studio use.;0.6045816540718079;True
+48;I vote for ModMic and Sennheiser 598! Or ModMic and ... anything good really! Look into the SHP9500,  MDR7506 , or even the Superlux 668 (but replace the earpads) for some good budget options!;{'POSITIVE': True};I vote for ModMic and Sennheiser 598! Or ModMic and ... anything good really! Look into the SHP9500,  MDR7506 , or even the Superlux 668 (but replace the earpads) for some good budget options!;0.3667465150356293;False
+49;Sony  MDR7506  ;{'POSITIVE': True};Sony  MDR7506  ;0.5740994215011597;True
+50;"My mutt, my mixer...
+Freja shares the couch with my #locationsound  rig.
+...
+#carlweldenproductions  #ktek  #ktekstingray  #lectrosonics  #mdr7506  #remoteaudio  #sennheiser  #sd633  #Audio  #sounddevices  #sound  #dogs  @sounddevices  @remote_audio  @Lectrosonics  @KTekBooms  @SennheiserUSA pic.twitter.com/vZRmXHm66p";{'POSITIVE': True};"My mutt, my mixer...
+Freja shares the couch with my #locationsound  rig.
+...
+#carlweldenproductions  #ktek  #ktekstingray  #lectrosonics  #mdr7506  #remoteaudio  #sennheiser  #sd633  #Audio  #sounddevices  #sound  #dogs  @sounddevices  @remote_audio  @Lectrosonics  @KTekBooms  @SennheiserUSA pic.twitter.com/vZRmXHm66p";0.9999545812606812;True
+51;"Ambience: @SennheiserUSA  Ambeo VR 360° mic and @ZoomSound  F4 by the windy shores of the Roundout Creek.
+
+#sennheiser  #ambisonics  #ambeo  #zoomF4  #fieldrecording  @Sony   #mdr7506  @RycoteUK  #INV7HD  #rycoteadato   #naturesounds  #bloomingtonny  #roundoutcreek  #carlweldenproductions pic.twitter.com/gxcWncJbzA";{'POSITIVE': True};"Ambience: @SennheiserUSA  Ambeo VR 360° mic and @ZoomSound  F4 by the windy shores of the Roundout Creek.
+
+#sennheiser  #ambisonics  #ambeo  #zoomF4  #fieldrecording  @Sony   #mdr7506  @RycoteUK  #INV7HD  #rycoteadato   #naturesounds  #bloomingtonny  #roundoutcreek  #carlweldenproductions pic.twitter.com/gxcWncJbzA";0.9998706579208374;True
+52;Haley's Production Outfitters EXPENDABLES pick of the week? The @Sony  #MDR7506  headphones at $99.99 are a good deal + must have for any production bag. Stop by + grab a pair. Need more info? Contact sales@rule.com or 800-rule-com. #ProductionOutfitters  #Expendables pic.twitter.com/NSFQpKP3A9;{'POSITIVE': True};Haley's Production Outfitters EXPENDABLES pick of the week? The @Sony  #MDR7506  headphones at $99.99 are a good deal + must have for any production bag. Stop by + grab a pair. Need more info? Contact sales@rule.com or 800-rule-com. #ProductionOutfitters  #Expendables pic.twitter.com/NSFQpKP3A9;0.8770676255226135;True
+53;Sony’s highly-rated  MDR7506  Professional Headphones fall to $80 ($20 off)  https:// 9to5toys.com/2018/03/07/son y-mdr7506-headphones/   … pic.twitter.com/BuOQ2xNOLa;{'POSITIVE': True};Sony’s highly-rated  MDR7506  Professional Headphones fall to $80 ($20 off)  https:// 9to5toys.com/2018/03/07/son y-mdr7506-headphones/   … pic.twitter.com/BuOQ2xNOLa;0.9287939667701721;True
+54;Sony  MDR7506  Professional Large Diaphragm Headphone with 55% DISCOUNT here:  http:// amzn.to/2FZZ4Gq   https://www. youtube.com/watch?v=BCvVpJ cKYqg   …;{'POSITIVE': True};Sony  MDR7506  Professional Large Diaphragm Headphone with 55% DISCOUNT here:  http:// amzn.to/2FZZ4Gq   https://www. youtube.com/watch?v=BCvVpJ cKYqg   …;0.9351351857185364;True
+55;Sony's MDR-7500 Series Pro Headphones are a staple of broadcast & recording studios  http:// ed.gr/ljbu    #MDR7506  #SonyProAudio pic.twitter.com/xH83sH3rdB;{'POSITIVE': True};Sony's MDR-7500 Series Pro Headphones are a staple of broadcast & recording studios  http:// ed.gr/ljbu    #MDR7506  #SonyProAudio pic.twitter.com/xH83sH3rdB;0.7745387554168701;True
+56;Or in the sub-$100 range, these Sony  MDR7506 's are super solid:  https://www. amazon.com/dp/B000AJIF4E/ _encoding=UTF8?coliid=I1LAZ36R3MODLU&colid=RZ4R59DFZKP8&psc=0   … pic.twitter.com/9Pc74mudzT;{'POSITIVE': False};Or in the sub-$100 range, these Sony  MDR7506 's are super solid:  https://www. amazon.com/dp/B000AJIF4E/ _encoding=UTF8?coliid=I1LAZ36R3MODLU&colid=RZ4R59DFZKP8&psc=0   … pic.twitter.com/9Pc74mudzT;0.7300446033477783;True
+57;I knew you'd have a good answer. I think I have bad headphone ears. I wear Sony  MDR7506  mostly, but my cartilage starts to hurt after ~45m. I fear same would be true for QC-35s. Apple products fall out of my ears. I liked Bose Soundsport pretty well but I think I lost them. ;{'POSITIVE': False};I knew you'd have a good answer. I think I have bad headphone ears. I wear Sony  MDR7506  mostly, but my cartilage starts to hurt after ~45m. I fear same would be true for QC-35s. Apple products fall out of my ears. I liked Bose Soundsport pretty well but I think I lost them. ;0.17135818302631378;False
+58;"If i could get one off these   as a gift 
+
+Sony  MDR7506 
+ Pioneer Pro DJ HDJ-2000MK2-K
+Pioneer HDJ-1500-K
+Numark HF325
+Ultrasone HFI-580";{'POSITIVE': True};"If i could get one off these   as a gift 
+
+Sony  MDR7506 
+ Pioneer Pro DJ HDJ-2000MK2-K
+Pioneer HDJ-1500-K
+Numark HF325
+Ultrasone HFI-580";0.7508084177970886;True
+59;Just got a new pair of my fav headphone @Sony   MDR7506 's from @Sonar_Works  with custom frequency response calibration #mixing  #headphones pic.twitter.com/tKUkvEulbg;{'POSITIVE': True};Just got a new pair of my fav headphone @Sony   MDR7506 's from @Sonar_Works  with custom frequency response calibration #mixing  #headphones pic.twitter.com/tKUkvEulbg;0.8900710344314575;True
+60;I just got my first set of good headphones (Sony  MDR7506 ). Wow! Rediscovering lots of my music. Thank you @LaurenDragan !;{'POSITIVE': True};I just got my first set of good headphones (Sony  MDR7506 ). Wow! Rediscovering lots of my music. Thank you @LaurenDragan !;0.49978169798851013;False
+61;Thank you much! After fighting analysis paralysis, just ordered the Jabra Move Wireless Stereo Headset (very close to picking Sony  MDR7506 !);{'POSITIVE': True};Thank you much! After fighting analysis paralysis, just ordered the Jabra Move Wireless Stereo Headset (very close to picking Sony  MDR7506 !);0.3681245744228363;False
+62;Bag full of recording gear. Zoom H6, Zoom H2N, 3x @Sony   MDR7506 , 3x Electro-voice PL80, @belkin  rockstar headphone s… pic.twitter.com/v7dwzlqVU8;{'POSITIVE': True};Bag full of recording gear. Zoom H6, Zoom H2N, 3x @Sony   MDR7506 , 3x Electro-voice PL80, @belkin  rockstar headphone s… pic.twitter.com/v7dwzlqVU8;0.6448409557342529;True
+63;My home studio so far:  Audio-Technica-AT2020USB mic, Sony  MDR7506  headphones, Sony SoundForge - getting there! #voiceover  #actorslife;{'POSITIVE': True};My home studio so far:  Audio-Technica-AT2020USB mic, Sony  MDR7506  headphones, Sony SoundForge - getting there! #voiceover  #actorslife;0.9652535915374756;True
+64;The Sony  MDR7506 's treated me well. It was recommended on this site?  http://www. voiceactingmastery.com/toolbox    (There's more suggestions there.);{'POSITIVE': True};The Sony  MDR7506 's treated me well. It was recommended on this site?  http://www. voiceactingmastery.com/toolbox    (There's more suggestions there.);0.48964905738830566;False
+65;NEW cans    breaking them @Sony  #Sony  #V6  IN on @live1015phoenix  #MDR7506  #Sony  #RADIOlife  #Phoenix  #PHX  #Arizona  #AZlife  #AZ  #headphones pic.twitter.com/Nf1vvZik3q;{'POSITIVE': True};NEW cans    breaking them @Sony  #Sony  #V6  IN on @live1015phoenix  #MDR7506  #Sony  #RADIOlife  #Phoenix  #PHX  #Arizona  #AZlife  #AZ  #headphones pic.twitter.com/Nf1vvZik3q;0.9996716976165771;True
+66;I use  MDR7506  for desktop editing. Never out and about. And not in studio either (we use Beyer DT250 or DT150 or DT770 at the Beeb);{'POSITIVE': True};I use  MDR7506  for desktop editing. Never out and about. And not in studio either (we use Beyer DT250 or DT150 or DT770 at the Beeb);0.5630340576171875;True
+67;Thanks @paulhardware  from L to R sony  mdr7506  logitech g13 evga sc17 1070 4kg corsair 980gb xti ssd usb powered asus monitor roccat nyth  pic.twitter.com/bi1zCDuvNo;{'POSITIVE': True};Thanks @paulhardware  from L to R sony  mdr7506  logitech g13 evga sc17 1070 4kg corsair 980gb xti ssd usb powered asus monitor roccat nyth  pic.twitter.com/bi1zCDuvNo;0.8453295826911926;True
+68;Imagine the sound of a fork on a chalkboard. #pow  #filmscore  #torturescene  #music  #recording  #mdr7506  #chalkboard ...  http:// fb.me/8Tnl6NSgQ  ;{'POSITIVE': True};Imagine the sound of a fork on a chalkboard. #pow  #filmscore  #torturescene  #music  #recording  #mdr7506  #chalkboard ...  http:// fb.me/8Tnl6NSgQ  ;0.990010678768158;True
+69;Sony  MDR7506  or audio technica M30x (m50x way better but for $150 tho);{'POSITIVE': True};Sony  MDR7506  or audio technica M30x (m50x way better but for $150 tho);0.8022050261497498;True
+70;Awesome listen & I finally ordered Sony  MDR7506  headphones Webinar Ear training for audio producers  http:// training.npr.org/blog/webinar-e ar-training-for-audio-producers/   …  @nprtraining;{'POSITIVE': True};Awesome listen & I finally ordered Sony  MDR7506  headphones Webinar Ear training for audio producers  http:// training.npr.org/blog/webinar-e ar-training-for-audio-producers/   …  @nprtraining;0.948855996131897;True
+71;"Just bought a pair of Sony  MDR7506  Professional. 
+
+OMG.";{'POSITIVE': True};"Just bought a pair of Sony  MDR7506  Professional. 
+
+OMG.";0.6609684228897095;True
+72;Sony  mdr7506  a good choice;{'POSITIVE': True};Sony  mdr7506  a good choice;0.5178065299987793;True
+73;This picture explains it all.   #NOBORDER  #POTUS pic.twitter.com/j4FAoH6oUY;{'POSITIVE': True};This picture explains it all.   #NOBORDER  #POTUS pic.twitter.com/j4FAoH6oUY;0.5579875707626343;True
+74;RIP my @Sony  #MDR7506  studio headphones... I lived in these things for 4 years.. time for a new set?  pic.twitter.com/cOIFUZFzV1;{'POSITIVE': True};RIP my @Sony  #MDR7506  studio headphones... I lived in these things for 4 years.. time for a new set?  pic.twitter.com/cOIFUZFzV1;0.859165608882904;True
+75;It turns out my ears are incompatible with the ATH M50, so I just got the Sony  MDR7506 . So far they sound way better.;{'POSITIVE': False};It turns out my ears are incompatible with the ATH M50, so I just got the Sony  MDR7506 . So far they sound way better.;0.12290888279676437;False
+76;@ LaurenceWHolmes  the Grados SR80i, Sennheiser HD 280 (for more thump) and the Sony  MDR7506  are better sounding and less $;{'POSITIVE': False};@ LaurenceWHolmes  the Grados SR80i, Sennheiser HD 280 (for more thump) and the Sony  MDR7506  are better sounding and less $;0.5749655961990356;True
+77;Headphones busted, inears busted......looks like I'm giving myself a early Christmas gift SONY  MDR7506  :D;{'POSITIVE': True};Headphones busted, inears busted......looks like I'm giving myself a early Christmas gift SONY  MDR7506  :D;0.6158924698829651;True
+78;After years of buying Bose headphones, I bought the Sony  MDR7506  ones and I'm mind blown by their quality at a third of the price.;{'POSITIVE': False};After years of buying Bose headphones, I bought the Sony  MDR7506  ones and I'm mind blown by their quality at a third of the price.;0.28428012132644653;False
+79;"Sony  MDR7506  Professional Large Diaphragm Headphone  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_cp_api_kxX8xbJJVCC55   … 
+
+Don't get fancy shit.";{'POSITIVE': True};"Sony  MDR7506  Professional Large Diaphragm Headphone  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_cp_api_kxX8xbJJVCC55   … 
+
+Don't get fancy shit.";0.8507989645004272;True
+80;"Btw,
+
+and I'm prepared to get backlash for this,
+
+after two months of use, I found Sony  MDR7506 's OVERRATED.
+
+Like way below my expectations";{'POSITIVE': False};"Btw,
+
+and I'm prepared to get backlash for this,
+
+after two months of use, I found Sony  MDR7506 's OVERRATED.
+
+Like way below my expectations";0.2999608814716339;False
+81;"Literally yelling around the house,
+
+ MDR7506 !!
+
+AKG!
+
+SENNHEISERS!!";{'POSITIVE': True};"Literally yelling around the house,
+
+ MDR7506 !!
+
+AKG!
+
+SENNHEISERS!!";0.5705470442771912;True
+82;"Always on the hustle.
+
+#arturia  #ableton  #Sony  #minilab  #mdr7506  #live9 @Los Angeles, California  https://www. instagram.com/p/BKRK0CXBA-1/  ";{'POSITIVE': True};"Always on the hustle.
+
+#arturia  #ableton  #Sony  #minilab  #mdr7506  #live9 @Los Angeles, California  https://www. instagram.com/p/BKRK0CXBA-1/  ";0.9843732118606567;True
+83;"What am I going to do with a phone that I can't plug my Sony  MDR7506 's to?
+
+or my Beyer DT880s?
+
+or my Grado SR60s?
+
+or my Sennheiser HD202s";{'POSITIVE': True};"What am I going to do with a phone that I can't plug my Sony  MDR7506 's to?
+
+or my Beyer DT880s?
+
+or my Grado SR60s?
+
+or my Sennheiser HD202s";0.7771198153495789;True
+84;"Sony  MDR7506  Professional Large Diaphragm Headphone
+
+$72
+
+ http:// bit.ly/2bzAzSP   pic.twitter.com/HpanCxHE3X";{'POSITIVE': True};"Sony  MDR7506  Professional Large Diaphragm Headphone
+
+$72
+
+ http:// bit.ly/2bzAzSP   pic.twitter.com/HpanCxHE3X";0.8587949872016907;True
+85;"My JX-03 and  MDR7506  are officially ""shipped"".
+
+*sigh*";{'POSITIVE': True};"My JX-03 and  MDR7506  are officially ""shipped"".
+
+*sigh*";0.5327249765396118;True
+86;The official headphones of a hustler. #5dsr  #24mmlii  #mdr7506  #sonymdr7506  #editlife  #filmmaking …  https://www. instagram.com/p/BGYXu73Olda/  ;{'POSITIVE': True};The official headphones of a hustler. #5dsr  #24mmlii  #mdr7506  #sonymdr7506  #editlife  #filmmaking …  https://www. instagram.com/p/BGYXu73Olda/  ;0.9851946234703064;True
+87;I abhor Bose headphones. I would rather spend $70 on Sony  MDR7506;{'POSITIVE': True};I abhor Bose headphones. I would rather spend $70 on Sony  MDR7506;0.670310378074646;True
+88;"The Sony  MDR7506  Professional, great for studio. Will need an alternate for travel. 
+ http://www. amazon.com/gp/aw/d/B000AJ IF4E/ref=mp_s_a_1_4/189-5639340-9117962?qid=1461459370&sr=8-4&pi=AC_SX236_SY340_QL65&keywords=sony+headphones&dpPl=1&dpID=51DCPnqbdjL&ref=plSrch   … https:// twitter.com/qgittings/stat us/724029955760373761   …";{'POSITIVE': False};"The Sony  MDR7506  Professional, great for studio. Will need an alternate for travel. 
+ http://www. amazon.com/gp/aw/d/B000AJ IF4E/ref=mp_s_a_1_4/189-5639340-9117962?qid=1461459370&sr=8-4&pi=AC_SX236_SY340_QL65&keywords=sony+headphones&dpPl=1&dpID=51DCPnqbdjL&ref=plSrch   … https:// twitter.com/qgittings/stat us/724029955760373761   …";0.7995120286941528;True
+89;Excitedly awaiting my new headphones: Sony  MDR7506 , after the internet and @fexd  agreed upon their excellence.;{'POSITIVE': True};Excitedly awaiting my new headphones: Sony  MDR7506 , after the internet and @fexd  agreed upon their excellence.;0.6164695620536804;True
+90;# sony  #mdr7506  & #apogeeone  - my ideal for home recording studio   #homestudio   #homerecording …  https://www. instagram.com/p/BB4CR2FSIZg/  ;{'POSITIVE': True};# sony  #mdr7506  & #apogeeone  - my ideal for home recording studio   #homestudio   #homerecording …  https://www. instagram.com/p/BB4CR2FSIZg/  ;0.9701129198074341;True
+91;It's really stunning how weak it is going back to Sony  MDR7506  after having the Focal Spirits for a year. #deadphones;{'POSITIVE': True};It's really stunning how weak it is going back to Sony  MDR7506  after having the Focal Spirits for a year. #deadphones;0.3142240047454834;False
+92;I agree with most of the chosen. Currently I am using #Sony   MDR7506  and #AKG  K702. https:// twitter.com/Dubspot/status /689641173791739904   …;{'POSITIVE': True};I agree with most of the chosen. Currently I am using #Sony   MDR7506  and #AKG  K702. https:// twitter.com/Dubspot/status /689641173791739904   …;0.6380032300949097;True
+93;FL Studio, Serum, Novation LaunchKeys 25, Pair of  MDR7506 . Ton’s of samples. It’s producing time! #dnb  #flstudio;{'POSITIVE': True};FL Studio, Serum, Novation LaunchKeys 25, Pair of  MDR7506 . Ton’s of samples. It’s producing time! #dnb  #flstudio;0.8179291486740112;True
+94;.@SonyProUSA  Absolutely! It's THE industry reference standard! And has always been reasonably priced! #mdr7506  @BHPhotoVideo  @BHProAudio;{'POSITIVE': False};.@SonyProUSA  Absolutely! It's THE industry reference standard! And has always been reasonably priced! #mdr7506  @BHPhotoVideo  @BHProAudio;0.7182124257087708;True
+95;@ TimmyTechTV  @iAMLeoTheLion  those are too hifi and treble heavy. The akg are great for studio. The sony  mdr7506  are very flat too.;{'POSITIVE': False};@ TimmyTechTV  @iAMLeoTheLion  those are too hifi and treble heavy. The akg are great for studio. The sony  mdr7506  are very flat too.;0.47105640172958374;False
+96;2nite 6-8pm @YouTubeSpaceLA  see @SonyProUSA  products & chance to win  MDR7506  headphones. #F55  #FS7  #FS5  #a7rII  #X300 pic.twitter.com/fLrPAjFeEd;{'POSITIVE': True};2nite 6-8pm @YouTubeSpaceLA  see @SonyProUSA  products & chance to win  MDR7506  headphones. #F55  #FS7  #FS5  #a7rII  #X300 pic.twitter.com/fLrPAjFeEd;0.9947998523712158;True
+97;@ danikaharrod  Sony  MDR7506  is good and only $80. It produces a neutral sound so it's good for when you're recording.;{'POSITIVE': False};@ danikaharrod  Sony  MDR7506  is good and only $80. It produces a neutral sound so it's good for when you're recording.;0.2456243485212326;False
+98;The Sony  MDR7506 's have been my choice for years! 2 in the studio and 1 on the road. Best headphones.   https:// twitter.com/engadget/statu s/652559172538646529   …;{'POSITIVE': False};The Sony  MDR7506 's have been my choice for years! 2 in the studio and 1 on the road. Best headphones.   https:// twitter.com/engadget/statu s/652559172538646529   …;0.4054361879825592;False
+99;stpad LR with  MDR7506   pic.twitter.com/L0U0Hfm8NP;{'POSITIVE': True};stpad LR with  MDR7506   pic.twitter.com/L0U0Hfm8NP;0.6147605180740356;True
+100;I just bought myself a pair of Sony  MDR7506  headphones. VO-editing is going to be so much more enjoyable now :)  http://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_asp_VLxtJ.JWBT717   …;{'POSITIVE': False};I just bought myself a pair of Sony  MDR7506  headphones. VO-editing is going to be so much more enjoyable now :)  http://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_asp_VLxtJ.JWBT717   …;0.685738742351532;True
+101;@ rankarusu  @SwigglesRP Sony and Audiotechnica studio monitoring headphones are great. I have been using Sony  MDR7506  ($100) and theyre great;{'POSITIVE': False};@ rankarusu  @SwigglesRP Sony and Audiotechnica studio monitoring headphones are great. I have been using Sony  MDR7506  ($100) and theyre great;0.46708735823631287;False
+102;Upping my film audio game: 'Sony  MDR7506  | Professional Headphone' by Sony via @amazon   http://www. amazon.com/dp/B00DNNIJ2C/ ref=cm_sw_r_tw_asp_C3LhJ.JVS2K9Q   …;{'POSITIVE': True};Upping my film audio game: 'Sony  MDR7506  | Professional Headphone' by Sony via @amazon   http://www. amazon.com/dp/B00DNNIJ2C/ ref=cm_sw_r_tw_asp_C3LhJ.JVS2K9Q   …;0.8246686458587646;True
+103;$80 (20% off) Sony  MDR7506  Professional Large Diaphragm Headphone  http:// techhunter.co/sony-mdr7506-h eadphones/   … pic.twitter.com/hXZPTVJfQj;{'POSITIVE': True};$80 (20% off) Sony  MDR7506  Professional Large Diaphragm Headphone  http:// techhunter.co/sony-mdr7506-h eadphones/   … pic.twitter.com/hXZPTVJfQj;0.8990857005119324;True
+104;"Sony  MDR7506  Headphones for only $80:  http:// amzn.to/1CQeFoo   
+
+Get #podcasting  #deals  automatically:  http:// theaudacitytopodcast.com/deals  ";{'POSITIVE': True};"Sony  MDR7506  Headphones for only $80:  http:// amzn.to/1CQeFoo   
+
+Get #podcasting  #deals  automatically:  http:// theaudacitytopodcast.com/deals  ";0.9923337697982788;True
+105;The Best Pair Of Headphones Under $100? Sony  MDR7506  Review  http://www. midilifestyle.com/blog/the-best- headphone-under-100-sony-mdr7506-review/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost   …;{'POSITIVE': True};The Best Pair Of Headphones Under $100? Sony  MDR7506  Review  http://www. midilifestyle.com/blog/the-best- headphone-under-100-sony-mdr7506-review/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost   …;0.9433265924453735;True
+106;Inspired in part by @MarikoLochridge  I went and got an audio upgrade. Can’t wait to start rocking my new  MDR7506 ’s  pic.twitter.com/y4mDVw65xS;{'POSITIVE': True};Inspired in part by @MarikoLochridge  I went and got an audio upgrade. Can’t wait to start rocking my new  MDR7506 ’s  pic.twitter.com/y4mDVw65xS;0.7439246773719788;True
+107;Okay guys, goin' in... gonna listen once more before I go to sleep but this time on my Sony  MDR7506  headphones! I will likely die BYE.;{'POSITIVE': True};Okay guys, goin' in... gonna listen once more before I go to sleep but this time on my Sony  MDR7506  headphones! I will likely die BYE.;0.5595815777778625;True
+108;1/ I have two pairs of headphones that have now lasted 10+ years: Sony  MDR7506  and Sennheiser HD25. Nothing else has come close.;{'POSITIVE': False};1/ I have two pairs of headphones that have now lasted 10+ years: Sony  MDR7506  and Sennheiser HD25. Nothing else has come close.;0.6996166110038757;True
+109;@ repmusicLtd  @RobinPjazz  I tend to track absolutely everything with DT100's as do many people You could try the DT150's too or Sony  mdr7506;{'POSITIVE': True};@ repmusicLtd  @RobinPjazz  I tend to track absolutely everything with DT100's as do many people You could try the DT150's too or Sony  mdr7506;0.6512986421585083;True
+110;[priv] Hey You App:  http:// Amazon.com   : Sony  MDR7506  Professional Large Dia? on  http:// App.net     http:// dlvr.it/8lQPsd  ;{'POSITIVE': True};[priv] Hey You App:  http:// Amazon.com   : Sony  MDR7506  Professional Large Dia? on  http:// App.net     http:// dlvr.it/8lQPsd  ;0.9655260443687439;True
+111;Sony  MDR7506  headphones under $100 on Amazon India. Sweet deal.  http://www. amazon.in/gp/offer-listi ng/B000AJIF4E/ref=dp_olp_new?ie=UTF8&condition=new   …;{'POSITIVE': True};Sony  MDR7506  headphones under $100 on Amazon India. Sweet deal.  http://www. amazon.in/gp/offer-listi ng/B000AJIF4E/ref=dp_olp_new?ie=UTF8&condition=new   …;0.9212071299552917;True
+112;not bad...... #music  #nowplaying  #mdr7506   ? give trance a chance Kevin Huang  http:// spoti.fi/1BKNnvN  ;{'POSITIVE': True};not bad...... #music  #nowplaying  #mdr7506   ? give trance a chance Kevin Huang  http:// spoti.fi/1BKNnvN  ;0.9226732850074768;True
+113;The packaging on the @Sony   MDR7506 's is beautiful, and judging from this @LegionDNB  mix so far, so is the sound.;{'POSITIVE': False};The packaging on the @Sony   MDR7506 's is beautiful, and judging from this @LegionDNB  mix so far, so is the sound.;0.15356771647930145;False
+114;I just picked up some Sony  MDR7506 ’s. They’re the same headphones I had at my edit station at @FellowshipAR  and I MISSED them.;{'POSITIVE': True};I just picked up some Sony  MDR7506 ’s. They’re the same headphones I had at my edit station at @FellowshipAR  and I MISSED them.;0.4758892357349396;False
+115;Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics)By Sony        Click to see pri...  http:// amzn.to/1a6t5yY  ;{'POSITIVE': True};Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics)By Sony        Click to see pri...  http:// amzn.to/1a6t5yY  ;0.8769143223762512;True
+116;Yes the Sony  MDR7506  are the go-to studio reference cans but I listen for fun. My ears prefer the warmer Sennheiser HD380 PRO. #geek;{'POSITIVE': False};Yes the Sony  MDR7506  are the go-to studio reference cans but I listen for fun. My ears prefer the warmer Sennheiser HD380 PRO. #geek;0.6719619631767273;True
+117;http:// ift.tt/1qE2Eac    #headphone  #Studio  #Audio  I WAS IN LOVE WITH MY SONY  MDR7506  until I got this pair,,, I ...  pic.twitter.com/CenWRqFZcp;{'POSITIVE': True};http:// ift.tt/1qE2Eac    #headphone  #Studio  #Audio  I WAS IN LOVE WITH MY SONY  MDR7506  until I got this pair,,, I ...  pic.twitter.com/CenWRqFZcp;0.9707952737808228;True
+118;Thoughts? #audio  #producer  #gamer  #shopwithme  #Sony   MDR7506  Professional Large Diaphragm Headphone  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_awd_nX6hub1XC3M2B   …;{'POSITIVE': True};Thoughts? #audio  #producer  #gamer  #shopwithme  #Sony   MDR7506  Professional Large Diaphragm Headphone  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_awd_nX6hub1XC3M2B   …;0.9923322200775146;True
+119;Bought a pair of headphones (Sony  MDR7506 ) on a whim for the kit, pleasantly surprised and quite possibly the best pair I've ever owned.;{'POSITIVE': False};Bought a pair of headphones (Sony  MDR7506 ) on a whim for the kit, pleasantly surprised and quite possibly the best pair I've ever owned.;0.3938722014427185;False
+120;You know Sony's  MDR7506  headphones are something special when you hear a near silent cough in a song you've heard hundreds of times;{'POSITIVE': False};You know Sony's  MDR7506  headphones are something special when you hear a near silent cough in a song you've heard hundreds of times;0.4717755913734436;False
+121;I'm a huge fan of the Sony  MDR7506  headphones. Great comparison article from Kinja.  http:// co-op.kinja.com/five-best-head phones-1617713676/+shaneroberts   …;{'POSITIVE': True};I'm a huge fan of the Sony  MDR7506  headphones. Great comparison article from Kinja.  http:// co-op.kinja.com/five-best-head phones-1617713676/+shaneroberts   …;0.6758145689964294;True
+122;"More new toys.. and candy!  
+#iFucksWithYou  #SweetWater  #Sony  #MDR7506  #AudioTechnica …  http:// instagram.com/p/rYBH_ZHQ2V/  ";{'POSITIVE': True};"More new toys.. and candy!  
+#iFucksWithYou  #SweetWater  #Sony  #MDR7506  #AudioTechnica …  http:// instagram.com/p/rYBH_ZHQ2V/  ";0.9590975046157837;True
+123;@ MKMEdits  there are a couple diff models, I use the  MDR7506 's, should run 75-100 bux at amazon;{'POSITIVE': True};@ MKMEdits  there are a couple diff models, I use the  MDR7506 's, should run 75-100 bux at amazon;0.5871881246566772;True
+124;Man these Sony  MDR7506  headphones are great. Collapsible, isolated pro monitors. Travel + monitoring = ;{'POSITIVE': False};Man these Sony  MDR7506  headphones are great. Collapsible, isolated pro monitors. Travel + monitoring = ;0.6337459683418274;True
+125;# yeahijustsaidthat  new toys |m| #geek  #MDR7506   pic.twitter.com/GS9mfBIym3;{'POSITIVE': True};# yeahijustsaidthat  new toys |m| #geek  #MDR7506   pic.twitter.com/GS9mfBIym3;0.8048436641693115;True
+126;"@ johnbirchman  @chris_neto  +1 for  mdr7506 ; not sexy looking but great sounding.";{'POSITIVE': False};"@ johnbirchman  @chris_neto  +1 for  mdr7506 ; not sexy looking but great sounding.";0.6194021701812744;True
+127;Can't decide between two headphones need some help!: I can't decide between the Sony  MDR7506  Headphones or the...  http:// bit.ly/1jabwpa  ;{'POSITIVE': True};Can't decide between two headphones need some help!: I can't decide between the Sony  MDR7506  Headphones or the...  http:// bit.ly/1jabwpa  ;0.9011207818984985;True
+128;"http:// amzn.to/1iqKXvL    #7: Sony  MDR7506  Professional Large Diaphragm Headphone
+
+Sony  MDR7506  Professional Large...  pic.twitter.com/zTxxrNoSNA";{'POSITIVE': True};"http:// amzn.to/1iqKXvL    #7: Sony  MDR7506  Professional Large Diaphragm Headphone
+
+Sony  MDR7506  Professional Large...  pic.twitter.com/zTxxrNoSNA";0.9694123268127441;True
+129;Looking at a set of  MDR7506 's for music & Podcast mixing/editing. What do you use? #studioheadphones pic.twitter.com/2nvkYl4Z6e;{'POSITIVE': True};Looking at a set of  MDR7506 's for music & Podcast mixing/editing. What do you use? #studioheadphones pic.twitter.com/2nvkYl4Z6e;0.5612024068832397;True
+130;Sony  MDR7506   pic.twitter.com/WN4cqGOtSD;{'POSITIVE': True};Sony  MDR7506   pic.twitter.com/WN4cqGOtSD;0.5168138146400452;True
+131;Everyone who knows sound should know these. #sony  #mdr7506  #studio  #headphones  #monitor   http:// instagram.com/p/nwJCuRRcxn/  ;{'POSITIVE': True};Everyone who knows sound should know these. #sony  #mdr7506  #studio  #headphones  #monitor   http:// instagram.com/p/nwJCuRRcxn/  ;0.9767172932624817;True
+132;View this morning! #lifeofasoundengineer  #foh  #freshbreath  #x32  #mdr7506  #splmeter  #jbl  #qsc  #eaw …  http:// instagram.com/p/nlQ-zDlTWY/  ;{'POSITIVE': True};View this morning! #lifeofasoundengineer  #foh  #freshbreath  #x32  #mdr7506  #splmeter  #jbl  #qsc  #eaw …  http:// instagram.com/p/nlQ-zDlTWY/  ;0.9970343112945557;True
+133;Sony  MDR7506;{'POSITIVE': True};Sony  MDR7506;0.45619645714759827;False
+134;Thanks for the love MT @TonyBoomPow  I have a long love affair with my #MDR7506  #voiceover  #nobeatsever  #Audiophile pic.twitter.com/DlzzpsLWFW;{'POSITIVE': False};Thanks for the love MT @TonyBoomPow  I have a long love affair with my #MDR7506  #voiceover  #nobeatsever  #Audiophile pic.twitter.com/DlzzpsLWFW;0.7874661684036255;True
+135;# Amazon  #Canada  Sony  MDR7506  Professional Large Diaphragm Headphone with Beyerdynamic EDT 200 Vel...  http:// amzn.to/1qSdQlt    #Electronics;{'POSITIVE': True};# Amazon  #Canada  Sony  MDR7506  Professional Large Diaphragm Headphone with Beyerdynamic EDT 200 Vel...  http:// amzn.to/1qSdQlt    #Electronics;0.9801400303840637;True
+136;"RT @bryan_bradshaw : @ChrisTannehill  Best headphones under $300 in you opinion?
+
+-I use Shure SRH440's and Sony  MDR7506 's.";{'POSITIVE': True};"RT @bryan_bradshaw : @ChrisTannehill  Best headphones under $300 in you opinion?
+
+-I use Shure SRH440's and Sony  MDR7506 's.";0.7314255237579346;True
+137;"@ GaiaBordicchia  I use these! I like em’ big and roomy. Sony  MDR7506  Professional Large Diaphragm Headphone
+ http:// amzn.com/B000AJIF4E  ";{'POSITIVE': False};"@ GaiaBordicchia  I use these! I like em’ big and roomy. Sony  MDR7506  Professional Large Diaphragm Headphone
+ http:// amzn.com/B000AJIF4E  ";0.7868479490280151;True
+138;The perfect pair for my Sunday. #sonyproffesional  #mdr7506  #shure  #sm7b  #hot106  #radiostation   http:// instagram.com/p/hY5Pe7N-xY/  ;{'POSITIVE': True};The perfect pair for my Sunday. #sonyproffesional  #mdr7506  #shure  #sm7b  #hot106  #radiostation   http:// instagram.com/p/hY5Pe7N-xY/  ;0.9797347187995911;True
+139;I'm listening to @kylebobbydunn  on a set of Sony  MDR7506  headphones. I'm seeing the sunshine from my forth birthday. Long live Bobby Dunn.;{'POSITIVE': True};I'm listening to @kylebobbydunn  on a set of Sony  MDR7506  headphones. I'm seeing the sunshine from my forth birthday. Long live Bobby Dunn.;0.5744044184684753;True
+140;Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics)By Sony        Buy new: $77.775...  http:// amzn.to/1a6t5yY  ;{'POSITIVE': True};Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics)By Sony        Buy new: $77.775...  http:// amzn.to/1a6t5yY  ;0.9362881183624268;True
+141;@ carolineghetes  I like these. I use them at my radio job. They're not terribly spendy:  Sony  MDR7506  Professional Large Diaphragm Headphone;{'POSITIVE': False};@ carolineghetes  I like these. I use them at my radio job. They're not terribly spendy:  Sony  MDR7506  Professional Large Diaphragm Headphone;0.6647326350212097;True
+142;Sony  MDR7506  Professional Large Diaphragm Headphone by Sony  http://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_dp_bjgrsb0DAJFQS   …  via @amazon;{'POSITIVE': True};Sony  MDR7506  Professional Large Diaphragm Headphone by Sony  http://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_dp_bjgrsb0DAJFQS   …  via @amazon;0.8989396095275879;True
+143;FINALLY #sony  #mdr7506  #headphones   http:// instagram.com/p/eQKAy2jmdZ/  ;{'POSITIVE': True};FINALLY #sony  #mdr7506  #headphones   http:// instagram.com/p/eQKAy2jmdZ/  ;0.9089759588241577;True
+144;Wow, pretty good deal on the Sony  MDR7506  headphones. I have the MDR7609HD and they are exceptional.  http://www. amazon.com/gp/product/B00 0AJIF4E/ref=as_li_ss_tl?ie=UTF8&tag=duckwing-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B000AJIF4E   …;{'POSITIVE': True};Wow, pretty good deal on the Sony  MDR7506  headphones. I have the MDR7609HD and they are exceptional.  http://www. amazon.com/gp/product/B00 0AJIF4E/ref=as_li_ss_tl?ie=UTF8&tag=duckwing-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B000AJIF4E   …;0.4839041531085968;False
+145;@ marcoarment  Get the Sony professional headphones.  MDR7506;{'POSITIVE': True};@ marcoarment  Get the Sony professional headphones.  MDR7506;0.7130182385444641;True
+146;.@ElizabethKretz Sony  MDR7506  $87 from Amazon. (As seen on  http:// willgroom.com   );{'POSITIVE': True};.@ElizabethKretz Sony  MDR7506  $87 from Amazon. (As seen on  http:// willgroom.com   );0.8683995604515076;True
+147;This is a stupid good deal for a great pair of studio cans. Sony  MDR7506  headphones.   http://www. amazon.com/gp/product/B00 0AJIF4E?ie=UTF8&camp=213733&creative=393185&creativeASIN=B000AJIF4E&linkCode=shr&tag=theramofsomau-20&force-full-site=1&ref_=aw_bottom_links   …  via @amazon;{'POSITIVE': True};This is a stupid good deal for a great pair of studio cans. Sony  MDR7506  headphones.   http://www. amazon.com/gp/product/B00 0AJIF4E?ie=UTF8&camp=213733&creative=393185&creativeASIN=B000AJIF4E&linkCode=shr&tag=theramofsomau-20&force-full-site=1&ref_=aw_bottom_links   …  via @amazon;0.8915920257568359;True
+148;Sony  MDR7506  Professional Massive Diaphragm Headphone: Sony  MDR7506  Skilled Large Diaphragm Headphone Sony MDR75...  http:// bit.ly/12yDJb0  ;{'POSITIVE': True};Sony  MDR7506  Professional Massive Diaphragm Headphone: Sony  MDR7506  Skilled Large Diaphragm Headphone Sony MDR75...  http:// bit.ly/12yDJb0  ;0.9630658626556396;True
+149;@ SmiteMatter  I love my Sony  MDR7506 's at around $100.;{'POSITIVE': True};@ SmiteMatter  I love my Sony  MDR7506 's at around $100.;0.509619414806366;True
+150;? Hot Sony  MDR7506  Professional Large Diaphragm Headphone: ? ? Low Price Sony  MDR7506  Professional Large Diaphra...  http:// bit.ly/Z6A6HE  ;{'POSITIVE': True};? Hot Sony  MDR7506  Professional Large Diaphragm Headphone: ? ? Low Price Sony  MDR7506  Professional Large Diaphra...  http:// bit.ly/Z6A6HE  ;0.9771768450737;True
+151;"""Only an ex radio dork like me would use his headphones in his now corporate office.""  http:// on.fb.me/SMqMLN    via @MrDetermined713  #mdr7506";{'POSITIVE': True};"""Only an ex radio dork like me would use his headphones in his now corporate office.""  http:// on.fb.me/SMqMLN    via @MrDetermined713  #mdr7506";0.7055631279945374;True
+152;2012 KOBE Light Massage pic.twitter.com/QsfNTn9Y;{'POSITIVE': True};2012 KOBE Light Massage pic.twitter.com/QsfNTn9Y;0.3637133240699768;False
+153;an  MDR7506  at sub-grado prices? can't go wrong   http://www. amazon.com/dp/B00001WRSJ/  ;{'POSITIVE': True};an  MDR7506  at sub-grado prices? can't go wrong   http://www. amazon.com/dp/B00001WRSJ/  ;0.7920100688934326;True
+154;People smashing guitars are terrible. Companies smashing guitars for commercials are worse. I'll take my Sony  MDR7506  over Beats any day.;{'POSITIVE': False};People smashing guitars are terrible. Companies smashing guitars for commercials are worse. I'll take my Sony  MDR7506  over Beats any day.;0.3927115499973297;False
+155;Sony  MDR7506;{'POSITIVE': True};Sony  MDR7506;0.45619645714759827;False
+156;I just bought: 'Sony  MDR7506  Professional Headphones' by Sony via @amazon .  Thanks to @kanendosei  for the suggestion  http://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_asp_DrY.E.1SR4ZS6   …;{'POSITIVE': True};I just bought: 'Sony  MDR7506  Professional Headphones' by Sony via @amazon .  Thanks to @kanendosei  for the suggestion  http://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_asp_DrY.E.1SR4ZS6   …;0.9182384610176086;True
+157;@ SonyProUSA  Thanks so much for the spotlight!  http:// on.fb.me/L3c8ee    #MDR7506  #ProAudio  #Headphones  #EarBudsAreWeak;{'POSITIVE': True};@ SonyProUSA  Thanks so much for the spotlight!  http:// on.fb.me/L3c8ee    #MDR7506  #ProAudio  #Headphones  #EarBudsAreWeak;0.9570745229721069;True
+158;I'm gonna warn you guys... I'm about to listen to all snippets in my AMAZING headphones I use for work... Sony  MDR7506 . Keysmash WILL ensue.;{'POSITIVE': True};I'm gonna warn you guys... I'm about to listen to all snippets in my AMAZING headphones I use for work... Sony  MDR7506 . Keysmash WILL ensue.;0.2670174837112427;False
+159;"Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics) tagged ""music"" 34 times  http:// dlvr.it/19mPrX  ";{'POSITIVE': True};"Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics) tagged ""music"" 34 times  http:// dlvr.it/19mPrX  ";0.8777077794075012;True
+160;@ AndrewSilva253  the same sony ones that i always recommend.  MDR7506   http:// twitpic.com/5wwjo7  ;{'POSITIVE': True};@ AndrewSilva253  the same sony ones that i always recommend.  MDR7506   http:// twitpic.com/5wwjo7  ;0.6389039158821106;True
+161;The youhei Daily is out! http://bit.ly/eon0yp ? Top stories today via @mdr7506;{'POSITIVE': True};The youhei Daily is out! http://bit.ly/eon0yp ? Top stories today via @mdr7506;0.30717897415161133;False
+162;Leaning towards Sony  MDR7506  headphones. Want over-ear, prefer either closed back or noise cancelling. http://amzn.to/fDxPWC;{'POSITIVE': True};Leaning towards Sony  MDR7506  headphones. Want over-ear, prefer either closed back or noise cancelling. http://amzn.to/fDxPWC;0.8335003852844238;True
+163;*NEUTRAL*?? is out! http://bit.ly/f6s0rl ? Top stories today via @kobe_np  @takano220  @mdr7506  @villakobe;{'POSITIVE': True};*NEUTRAL*?? is out! http://bit.ly/f6s0rl ? Top stories today via @kobe_np  @takano220  @mdr7506  @villakobe;0.7147220373153687;True
+164;Let me set the record straight, Beats by dre headphones sound like crap, They have lots of bass but it's extremely muddy. Cop Sony  mdr7506 's;{'POSITIVE': True};Let me set the record straight, Beats by dre headphones sound like crap, They have lots of bass but it's extremely muddy. Cop Sony  mdr7506 's;0.1254359483718872;False
+165;Headphone Earpads for Sony  MDR7506  MDRV6 MDR-7506 MDR-V6. Free Shipping. http://bit.ly/gCIHfh;{'POSITIVE': True};Headphone Earpads for Sony  MDR7506  MDRV6 MDR-7506 MDR-V6. Free Shipping. http://bit.ly/gCIHfh;0.6580511927604675;True
+166;Photo:  mdr7506 : http://tumblr.com/xndcdogql;{'POSITIVE': True};Photo:  mdr7506 : http://tumblr.com/xndcdogql;0.6370357871055603;True
+167;@ bopstar  bought my Sony  MDR7506  headphones off me, cus his one's broke. They've both gone to Hong Kong.....;{'POSITIVE': True};@ bopstar  bought my Sony  MDR7506  headphones off me, cus his one's broke. They've both gone to Hong Kong.....;0.4887877106666565;False
+168;RCRDLBL is still on fire. I – and my  MDR7506 's – have died and gone to heaven. http://bit.ly/vQee;{'POSITIVE': True};RCRDLBL is still on fire. I – and my  MDR7506 's – have died and gone to heaven. http://bit.ly/vQee;0.21450819075107574;False
+169;Our favorite headphones at SunSpots are the Sony  MDR7506 . They're comfortable, very isolating and last forever. http://tinyurl.com/bymj2r;{'POSITIVE': False};Our favorite headphones at SunSpots are the Sony  MDR7506 . They're comfortable, very isolating and last forever. http://tinyurl.com/bymj2r;0.2492883801460266;False
+170;Bose 'phones are great, for proofing shows IN A SUBMARINE.  Sony  MDR7506  forever. I am not a crackpot.;{'POSITIVE': True};Bose 'phones are great, for proofing shows IN A SUBMARINE.  Sony  MDR7506  forever. I am not a crackpot.;0.5386297702789307;True
+171;@ mdowney  on that Sony  MDR7506 : please give us a short review in a few days...;{'POSITIVE': True};@ mdowney  on that Sony  MDR7506 : please give us a short review in a few days...;0.7036433815956116;True
+172;Bought the Sony  MDR7506  headphones at Guitar Center - their reg price is $89 now and they have a 10% off coupon on their site  Below cost!;{'POSITIVE': True};Bought the Sony  MDR7506  headphones at Guitar Center - their reg price is $89 now and they have a 10% off coupon on their site  Below cost!;0.569994330406189;True
+173;@ mdowney  go with the  MDR7506 . We have it at work and it is stellar. I own Senn's at home (HD-525) and like it better than the HD-280.;{'POSITIVE': False};@ mdowney  go with the  MDR7506 . We have it at work and it is stellar. I own Senn's at home (HD-525) and like it better than the HD-280.;0.18998239934444427;False
+174;looking like Sennheiser HD-280 vs. Sony  MDR7506 . Anyone? Other choices?;{'POSITIVE': True};looking like Sennheiser HD-280 vs. Sony  MDR7506 . Anyone? Other choices?;0.6457645893096924;True
+175;@ chrisfree  Sony  mdr7506  is a pretty decent set if I remember. You could also try entry level sennheiser or akg like the k240s or something.;{'POSITIVE': False};@ chrisfree  Sony  mdr7506  is a pretty decent set if I remember. You could also try entry level sennheiser or akg like the k240s or something.;0.6242110133171082;True
+176;Review: Sony Sony  MDR7506  Review: Sony MDR 7506 - Head Phones: Pretty much every person that comes to my .. http://tinyurl.com/8rbdlx;{'POSITIVE': True};Review: Sony Sony  MDR7506  Review: Sony MDR 7506 - Head Phones: Pretty much every person that comes to my .. http://tinyurl.com/8rbdlx;0.7252690196037292;True
+177;: The 50mm f/1.8, or The headphones? I chose the phones. Sony  MDR7506 's. I will scoop the lens off eBay for my bday when I see a steal.;{'POSITIVE': True};: The 50mm f/1.8, or The headphones? I chose the phones. Sony  MDR7506 's. I will scoop the lens off eBay for my bday when I see a steal.;0.4400652348995209;False
+178;Best Prices On Sony  MDR7506  Professional Large Diaphragm Headphone ...: Best Prices On Sony  MDR7506  .. http://bit.ly/3mIEoa;{'POSITIVE': True};Best Prices On Sony  MDR7506  Professional Large Diaphragm Headphone ...: Best Prices On Sony  MDR7506  .. http://bit.ly/3mIEoa;0.8572511672973633;True
+179;have no idea where my older sony  mdr7506  headphones are, did i give them to someone?;{'POSITIVE': True};have no idea where my older sony  mdr7506  headphones are, did i give them to someone?;0.5006144642829895;True
+180;Just FYI: I swear by Sony  MDR7506  Headphones. $100 and you get what pro studios use. Beautiful sound, will last forever: http://is.gd/11H5;{'POSITIVE': False};Just FYI: I swear by Sony  MDR7506  Headphones. $100 and you get what pro studios use. Beautiful sound, will last forever: http://is.gd/11H5;0.7130404114723206;True
+181;sad = having to stop playing music bc it's late & downstairs neighbors hate us. esp bc can't plug  MDR7506  into analogue :(;{'POSITIVE': True};sad = having to stop playing music bc it's late & downstairs neighbors hate us. esp bc can't plug  MDR7506  into analogue :(;0.4672015607357025;False
+182;Sony  MDR7506  FTW!;{'POSITIVE': True};Sony  MDR7506  FTW!;0.5935600399971008;True
+183;MDR7506  + The Fugees = probably the best pairing thus far.;{'POSITIVE': True};MDR7506  + The Fugees = probably the best pairing thus far.;0.38263046741485596;False
+184;I have mad love for everyone who uses sony  mdr   7506  headphones;{'POSITIVE': True};I have mad love for everyone who uses sony  mdr   7506  headphones;0.5009557604789734;True
+185;Success! I have repaired and upgraded my Sony  MDR - 7506  headphones. They now feature a detachable headphone cable. A little soldier goes a long way ;{'POSITIVE': True};Success! I have repaired and upgraded my Sony  MDR - 7506  headphones. They now feature a detachable headphone cable. A little soldier goes a long way ;0.49464452266693115;False
+186;just ordered another pair of Sony  MDR   7506 ..;{'POSITIVE': True};just ordered another pair of Sony  MDR   7506 ..;0.49503380060195923;False
+187;Nils Frahm. Says. Sony  MDR - 7506 . Volume 11. Oh my sweet deities it's absolutely mind blowing.;{'POSITIVE': True};Nils Frahm. Says. Sony  MDR - 7506 . Volume 11. Oh my sweet deities it's absolutely mind blowing.;0.44046133756637573;False
+188;anyway i got a pair of sony  mdr7506 ’s;{'POSITIVE': True};anyway i got a pair of sony  mdr7506 ’s;0.4342416822910309;False
+189;Rip to my Sony  mdr   7506 's you had a good run;{'POSITIVE': True};Rip to my Sony  mdr   7506 's you had a good run;0.3579551875591278;False
+190;I love my Sony  MDR - 7506  headphones but this wire is driving me crazy, need suggestions for wireless headphones pls;{'POSITIVE': False};I love my Sony  MDR - 7506  headphones but this wire is driving me crazy, need suggestions for wireless headphones pls;0.4961024224758148;False
+191;"1) Working in the Baltimore Orioles front office
+
+2) Fixing the Title Tool in Avid Media Composer
+
+3) Tankie Memes
+
+4) Manufacturing Sony  MDR   7506  headphones
+
+5) Yelling at the idiots who run the NYC subway  https:// twitter.com/Noahpinion/sta tus/975433014921461760   …";{'POSITIVE': True};"1) Working in the Baltimore Orioles front office
+
+2) Fixing the Title Tool in Avid Media Composer
+
+3) Tankie Memes
+
+4) Manufacturing Sony  MDR   7506  headphones
+
+5) Yelling at the idiots who run the NYC subway  https:// twitter.com/Noahpinion/sta tus/975433014921461760   …";0.8492068648338318;True
+192;A new pair of headphones (sony  mdr - 7506 ) came in recently, so I'm giving some OSTs a quick listen to see how they play out. I just got to Bravely Defualt's first disc and I can't deal with how much Windchimes is on this soundtrack. Like, I'm genuinely confused why, haha.;{'POSITIVE': True};A new pair of headphones (sony  mdr - 7506 ) came in recently, so I'm giving some OSTs a quick listen to see how they play out. I just got to Bravely Defualt's first disc and I can't deal with how much Windchimes is on this soundtrack. Like, I'm genuinely confused why, haha.;0.18301905691623688;False
+193;"I saw the SB commercial for (probably overpriced) headphones. If you're looking for decent headphones, you can't go wrong with the Sony  MDR7506 . They're in practically every studio I've ever been in, and almost bullet proof. Usually around $80.
+
+Just my semi-educated two cents.";{'POSITIVE': False};"I saw the SB commercial for (probably overpriced) headphones. If you're looking for decent headphones, you can't go wrong with the Sony  MDR7506 . They're in practically every studio I've ever been in, and almost bullet proof. Usually around $80.
+
+Just my semi-educated two cents.";0.39390289783477783;False
+194;I pity the people who have never heard their favorite music through studio-grade headphones. Even just the basic Sony  MDR - 7506 ’s are a game-changer.;{'POSITIVE': False};I pity the people who have never heard their favorite music through studio-grade headphones. Even just the basic Sony  MDR - 7506 ’s are a game-changer.;0.4575871229171753;False
+195;I really need to replace the pads on my  MDR -V6 and  MDR - 7506 . They’re falling apart (and I will use them til they die  MDR    4eva );{'POSITIVE': False};I really need to replace the pads on my  MDR -V6 and  MDR - 7506 . They’re falling apart (and I will use them til they die  MDR    4eva );0.3176302909851074;False
+196;Well, it’s happened: I’ve been podcasting long enough that I finally went through my first pair of headphones. My first pair of Sony  MDR7506  just died in its left ear.;{'POSITIVE': True};Well, it’s happened: I’ve been podcasting long enough that I finally went through my first pair of headphones. My first pair of Sony  MDR7506  just died in its left ear.;0.8022123575210571;True
+197;@ danbenjamin  I’m a bit behind on B2W, but I ran into the same issue with my  MDR -V6 & bought these for $12 last year - they work great and are holding up well. Compatible with  MDR -V6,  7506 , and CD900ST  -  http:// a.co/d/ckgyVNb  ;{'POSITIVE': True};@ danbenjamin  I’m a bit behind on B2W, but I ran into the same issue with my  MDR -V6 & bought these for $12 last year - they work great and are holding up well. Compatible with  MDR -V6,  7506 , and CD900ST  -  http:// a.co/d/ckgyVNb  ;0.8534055352210999;True
+198;My  mdr7506 ’s right ear blew and my other pair of headphones jack bent haha shiiiiiet;{'POSITIVE': False};My  mdr7506 ’s right ear blew and my other pair of headphones jack bent haha shiiiiiet;0.6699621081352234;True
+199;I love my Sony  MDR - 7506  headphones. I just wore them for 14 hours straight with no issues.;{'POSITIVE': False};I love my Sony  MDR - 7506  headphones. I just wore them for 14 hours straight with no issues.;0.5420231223106384;True
+200;Dude checking me in: I see you have the sony  mdr - 7506  headphones with the aftermarket earpads. Proceeds to give me a bunch of DAC recommendations and tells me I honestly should just play aiff rather than trust baggage ppl w my wax LOL;{'POSITIVE': True};Dude checking me in: I see you have the sony  mdr - 7506  headphones with the aftermarket earpads. Proceeds to give me a bunch of DAC recommendations and tells me I honestly should just play aiff rather than trust baggage ppl w my wax LOL;0.3293859362602234;False
+201;I have coveted a pair of Sony  MDR - 7506  headphones since high school and now I have them and they are glorious.;{'POSITIVE': False};I have coveted a pair of Sony  MDR - 7506  headphones since high school and now I have them and they are glorious.;0.3006342351436615;False
+202;"Electronics in my office I've been using daily for over 10 years: 
+
+- Brother laser printer, 
+
+- Epson V500 scanner
+
+- Sony  MDR - 7506  headphones
+
+All simple, all designed to do one thing.  pic.twitter.com/v3sxSAxoHM";{'POSITIVE': True};"Electronics in my office I've been using daily for over 10 years: 
+
+- Brother laser printer, 
+
+- Epson V500 scanner
+
+- Sony  MDR - 7506  headphones
+
+All simple, all designed to do one thing.  pic.twitter.com/v3sxSAxoHM";0.8131702542304993;True
+203;just bought what has to be at least my 3rd or 4th pair of sony  mdr   7506 's lol... these headphones are amazing til 1 ear stops working. crazy how used to them i am - i can't use any other headphone for casual listening or producing;{'POSITIVE': False};just bought what has to be at least my 3rd or 4th pair of sony  mdr   7506 's lol... these headphones are amazing til 1 ear stops working. crazy how used to them i am - i can't use any other headphone for casual listening or producing;0.5590444803237915;True
+204;Everyone should own the Sony  MDR - 7506  headset if only because every audio engineer uses them and as such these headphones are exactly what you are supposed to hear.;{'POSITIVE': False};Everyone should own the Sony  MDR - 7506  headset if only because every audio engineer uses them and as such these headphones are exactly what you are supposed to hear.;0.5626230835914612;True
+205;approximately 4 of my followers will care, but I got these Sony  MDR   7506 's last year and I love them so much. Pretty cheap for the best headphones I've ever had. Wish they got a little louder, but the sound quality is insane.  pic.twitter.com/Ti8ppQhF5g;{'POSITIVE': False};approximately 4 of my followers will care, but I got these Sony  MDR   7506 's last year and I love them so much. Pretty cheap for the best headphones I've ever had. Wish they got a little louder, but the sound quality is insane.  pic.twitter.com/Ti8ppQhF5g;0.040980637073516846;False
+206;"My Mixing Desk:
+1. Mac Pro 
+2. Apple LED Displays
+3. Macbook Pro
+4. Blue Sky 5.1 Volume
+5. Blue Sky 5.1 Speakers
+6. Cat Pic
+7. Sony  MDR - 7506 
+8. @PreSonus  Faderport 8
+9. Nob Control
+10. Kensington Expert
+11. Benchmark DAC1
+12. @fully_us  Jarvis
+13. Kork NanoKey2
+14. @WestWingWeekly pic.twitter.com/FoMObhQSOu";{'POSITIVE': True};"My Mixing Desk:
+1. Mac Pro 
+2. Apple LED Displays
+3. Macbook Pro
+4. Blue Sky 5.1 Volume
+5. Blue Sky 5.1 Speakers
+6. Cat Pic
+7. Sony  MDR - 7506 
+8. @PreSonus  Faderport 8
+9. Nob Control
+10. Kensington Expert
+11. Benchmark DAC1
+12. @fully_us  Jarvis
+13. Kork NanoKey2
+14. @WestWingWeekly pic.twitter.com/FoMObhQSOu";0.9005041122436523;True
+207;smh my  mdr7506  headphone cable started glitching in and out so i bought a pack of 10 female headphone jacks and im gonna make it so u can use a replaceable male-male 3.5 mm cable;{'POSITIVE': False};smh my  mdr7506  headphone cable started glitching in and out so i bought a pack of 10 female headphone jacks and im gonna make it so u can use a replaceable male-male 3.5 mm cable;0.3660910129547119;False
+208;"Note to self, unless you have 45 min to spare to bang your head against your desk, never ask if the difference between the Sony  MDR  V6 &  MDR   7506  is noticeable. And no, I didn't know what a 'presence peak' was. 
+Thank God I didn't mention Beats.    pic.twitter.com/OvdKjK8KVZ";{'POSITIVE': True};"Note to self, unless you have 45 min to spare to bang your head against your desk, never ask if the difference between the Sony  MDR  V6 &  MDR   7506  is noticeable. And no, I didn't know what a 'presence peak' was. 
+Thank God I didn't mention Beats.    pic.twitter.com/OvdKjK8KVZ";0.2942674160003662;False
+209;There is nothing quite like the pain of getting your finger pinched in the hinge of a pair of Sony  MDR - 7506  headphones;{'POSITIVE': True};There is nothing quite like the pain of getting your finger pinched in the hinge of a pair of Sony  MDR - 7506  headphones;0.5624904632568359;True
+210;"Apple Beats headphones: Premium Mediocre
+
+Sony  MDR - 7506 : Dirtbag Excellent";{'POSITIVE': False};"Apple Beats headphones: Premium Mediocre
+
+Sony  MDR - 7506 : Dirtbag Excellent";0.7329012155532837;True
+211;"Oh baby about to order my self a early bday present- Sony  MDR - 7506 ’s 
+
+Luckily my father has a pair, trying them out on stream today! Hope to see you guys there! Back to some #brawlhalla  solos w/ #fortnite  and #IconsBeta  last few hours today! 
+
+Remember 2stream Sunday!
+#1Force pic.twitter.com/7HDp8ZZvoO";{'POSITIVE': True};"Oh baby about to order my self a early bday present- Sony  MDR - 7506 ’s 
+
+Luckily my father has a pair, trying them out on stream today! Hope to see you guys there! Back to some #brawlhalla  solos w/ #fortnite  and #IconsBeta  last few hours today! 
+
+Remember 2stream Sunday!
+#1Force pic.twitter.com/7HDp8ZZvoO";0.9640941023826599;True
+212;I've had this pile of broken headphones and earbuds in my office workshop growing—I'm learning to repair them and it feels awesome! Here's a pair of Sony  MDR - 7506  monitors that needed a new cable: 1/5  pic.twitter.com/E1pXqdYZi9;{'POSITIVE': True};I've had this pile of broken headphones and earbuds in my office workshop growing—I'm learning to repair them and it feels awesome! Here's a pair of Sony  MDR - 7506  monitors that needed a new cable: 1/5  pic.twitter.com/E1pXqdYZi9;0.7297816872596741;True
+213;I tell you HuWhat! These damn Headphones are the best I've tested and owned. Can't believe I replaced my Audio Technica. I'm hearing stuff I haven't heard before LOL -- Sony  MDR7506  Professional Large Diaphragm Headphone Sony  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_dp_U_x_c9YWAbAFS1GEQ   …  via @amazon;{'POSITIVE': False};I tell you HuWhat! These damn Headphones are the best I've tested and owned. Can't believe I replaced my Audio Technica. I'm hearing stuff I haven't heard before LOL -- Sony  MDR7506  Professional Large Diaphragm Headphone Sony  https://www. amazon.com/dp/B000AJIF4E/ ref=cm_sw_r_tw_dp_U_x_c9YWAbAFS1GEQ   …  via @amazon;0.5975722670555115;True
+214;Trying out Soonish’s nifty new Rode shockmount pistol grip and Sony  MDR - 7506  headphones — both acquired with help from the show’s incredibly generous & appreciated Patreon supporters. You can pitch in too!  http://www. patreon.com/soonish   pic.twitter.com/dzS2xGVIU8;{'POSITIVE': True};Trying out Soonish’s nifty new Rode shockmount pistol grip and Sony  MDR - 7506  headphones — both acquired with help from the show’s incredibly generous & appreciated Patreon supporters. You can pitch in too!  http://www. patreon.com/soonish   pic.twitter.com/dzS2xGVIU8;0.7388014197349548;True
+215;Generally? Sony  MDR   7506 's are probably the most used in the business. They're pretty dependable, comfortable and sound good. There's also the cheaper version  MDR  V6 which work just as well.  https://www. bhphotovideo.com/c/product/3583 37-REG/Sony_MDRV6_MDR_V6_Closed_Back.html?ap=y&gclid=Cj0KCQjw2f7bBRDVARIsAAwYBBsU2oHZKdvMtx3A6YN49tIlbAlUuFWwn7Wb4u8WUwkr1hWbtGXR-RQaAk1REALw_wcB&smp=y   …;{'POSITIVE': False};Generally? Sony  MDR   7506 's are probably the most used in the business. They're pretty dependable, comfortable and sound good. There's also the cheaper version  MDR  V6 which work just as well.  https://www. bhphotovideo.com/c/product/3583 37-REG/Sony_MDRV6_MDR_V6_Closed_Back.html?ap=y&gclid=Cj0KCQjw2f7bBRDVARIsAAwYBBsU2oHZKdvMtx3A6YN49tIlbAlUuFWwn7Wb4u8WUwkr1hWbtGXR-RQaAk1REALw_wcB&smp=y   …;0.3485412299633026;False
+216;Hey just saw I’ve got headphone schmutz all over my neck! Those Sony  MDR - 7506 ’s are great cans, but they shed like a snake shedding it’s skin. Uffa!;{'POSITIVE': False};Hey just saw I’ve got headphone schmutz all over my neck! Those Sony  MDR - 7506 ’s are great cans, but they shed like a snake shedding it’s skin. Uffa!;0.2555237114429474;False
+217;"Headphones on—I use Sony  MDR - 7506  and I love them. Great for picking up subtle sounds when recording and editing VO at home. •
+•
+•
+•  #animation  #microphone  #acting  #actor  #tv  #film  #actorslife  #television  #creative  #voiceover  #voiceacting  #gear  #rec …  https:// ift.tt/2I39eFH   pic.twitter.com/tWlNqlzH6I";{'POSITIVE': False};"Headphones on—I use Sony  MDR - 7506  and I love them. Great for picking up subtle sounds when recording and editing VO at home. •
+•
+•
+•  #animation  #microphone  #acting  #actor  #tv  #film  #actorslife  #television  #creative  #voiceover  #voiceacting  #gear  #rec …  https:// ift.tt/2I39eFH   pic.twitter.com/tWlNqlzH6I";0.999835729598999;True
+218;Many options at $200 or less. I’d recommend the most widely used Sony  MDR - 7506 . Another good pair is the Audio Technica ATH M40x. People tend to go with the M50x but the 40 has a flatter bass signal and better for mixing imo;{'POSITIVE': True};Many options at $200 or less. I’d recommend the most widely used Sony  MDR - 7506 . Another good pair is the Audio Technica ATH M40x. People tend to go with the M50x but the 40 has a flatter bass signal and better for mixing imo;0.31109875440597534;False
+219;Getting rid of the ATH-M40x and getting the Sony  MDR7506 . Couldn't stand the way the earcups swiveled on the ATs.  pic.twitter.com/U5ib1lOmz8;{'POSITIVE': True};Getting rid of the ATH-M40x and getting the Sony  MDR7506 . Couldn't stand the way the earcups swiveled on the ATs.  pic.twitter.com/U5ib1lOmz8;0.45144516229629517;False
+220;Pretty much the same as everyone else: RE-50 / Marantz 661 / Sony  MDR - 7506  / Pro Tools (Not a fan of my mics so I’m upgrading soon.);{'POSITIVE': True};Pretty much the same as everyone else: RE-50 / Marantz 661 / Sony  MDR - 7506  / Pro Tools (Not a fan of my mics so I’m upgrading soon.);0.5769632458686829;True
+221;Sony  MDR7506 /v6. Under $100USD, closed over-the-ear, and flat response. Been using them for over 20 years. Comfy, light, sound great, if they die you didn't spend a ton.;{'POSITIVE': False};Sony  MDR7506 /v6. Under $100USD, closed over-the-ear, and flat response. Been using them for over 20 years. Comfy, light, sound great, if they die you didn't spend a ton.;0.1015731543302536;False
+222;"“Pro” in audio gear usually means “popular in studios for a long time”.
+
+But studios have different needs than “best” (durability, tradition), and most podcasters don’t record in a studio.
+
+There are better speech mics than the SM7B and better headphones than the  MDR - 7506 .";{'POSITIVE': True};"“Pro” in audio gear usually means “popular in studios for a long time”.
+
+But studios have different needs than “best” (durability, tradition), and most podcasters don’t record in a studio.
+
+There are better speech mics than the SM7B and better headphones than the  MDR - 7506 .";0.475757360458374;False
+223;Finally purchased some professional monitor headphones. Sony  MDR - 7506  from @BHPhotoVideo . pic.twitter.com/KisN0eMDDr;{'POSITIVE': True};Finally purchased some professional monitor headphones. Sony  MDR - 7506  from @BHPhotoVideo . pic.twitter.com/KisN0eMDDr;0.7787238359451294;True
+224;i will only listen to Sony  MDR   7506  headphones though. i kind of hate all other studio headphones, mostly because they either lie or are too big for my small head (sennheisers).;{'POSITIVE': True};i will only listen to Sony  MDR   7506  headphones though. i kind of hate all other studio headphones, mostly because they either lie or are too big for my small head (sennheisers).;0.5155234336853027;True
+225;Transcribing audio is my job. On my Sony  MDR - 7506  headphones I hear Yanny. On my Sony  MDR -U10M headphones I hear Laurel.;{'POSITIVE': True};Transcribing audio is my job. On my Sony  MDR - 7506  headphones I hear Yanny. On my Sony  MDR -U10M headphones I hear Laurel.;0.8068747520446777;True
+226;Gonna be giving these a go, Sony  MDR7506 ! My other pair are AT M50X. #VoiceActors  , what headphones are y'all using? pic.twitter.com/1BcQB6ADYN;{'POSITIVE': True};Gonna be giving these a go, Sony  MDR7506 ! My other pair are AT M50X. #VoiceActors  , what headphones are y'all using? pic.twitter.com/1BcQB6ADYN;0.7777560353279114;True
+227;"My mutt, my mixer...
+Freja shares the couch with my #locationsound  rig.
+...
+#carlweldenproductions  #ktek  #ktekstingray  #lectrosonics  #mdr7506  #remoteaudio  #sennheiser  #sd633  #Audio  #sounddevices  #sound  #dogs  @sounddevices  @remote_audio  @Lectrosonics  @KTekBooms  @SennheiserUSA pic.twitter.com/vZRmXHm66p";{'POSITIVE': True};"My mutt, my mixer...
+Freja shares the couch with my #locationsound  rig.
+...
+#carlweldenproductions  #ktek  #ktekstingray  #lectrosonics  #mdr7506  #remoteaudio  #sennheiser  #sd633  #Audio  #sounddevices  #sound  #dogs  @sounddevices  @remote_audio  @Lectrosonics  @KTekBooms  @SennheiserUSA pic.twitter.com/vZRmXHm66p";0.9999545812606812;True
+228;someday im gonna invest in 10 pairs of sony  mdr - 7506  headphones so i never need to buy another pair again;{'POSITIVE': True};someday im gonna invest in 10 pairs of sony  mdr - 7506  headphones so i never need to buy another pair again;0.5560545921325684;True
+229;Sony  MDR - 7506  Review  https://www. soundguys.com/sony-mdr-7506- review-16336/   … pic.twitter.com/deMRuOwcJd;{'POSITIVE': True};Sony  MDR - 7506  Review  https://www. soundguys.com/sony-mdr-7506- review-16336/   … pic.twitter.com/deMRuOwcJd;0.8050488233566284;True
+230;Found out that my favorite studio headphones (Sony’s  MDR7506 ) are currently on sale at  http:// Amazon.com    thanks to @wirecutter , so I picked up another pair. Mine have lasted nearly 25 years and (with only one pad change) are still going strong! https://www. amazon.com/dp/B000AJIF4E/ ?tag=wcedeals-20&utm_source=Deals+We+Love&utm_campaign=d74855eb7f-DEALS_2018_03_08&utm_medium=email&utm_term=0_97ed68eaf3-d74855eb7f-87677745   …;{'POSITIVE': False};Found out that my favorite studio headphones (Sony’s  MDR7506 ) are currently on sale at  http:// Amazon.com    thanks to @wirecutter , so I picked up another pair. Mine have lasted nearly 25 years and (with only one pad change) are still going strong! https://www. amazon.com/dp/B000AJIF4E/ ?tag=wcedeals-20&utm_source=Deals+We+Love&utm_campaign=d74855eb7f-DEALS_2018_03_08&utm_medium=email&utm_term=0_97ed68eaf3-d74855eb7f-87677745   …;0.8586326837539673;True
+231;Sony’s highly-rated  MDR7506  Professional Headphones fall to $80 ($20 off)  https:// 9to5toys.com/2018/03/07/son y-mdr7506-headphones/   … pic.twitter.com/BuOQ2xNOLa;{'POSITIVE': True};Sony’s highly-rated  MDR7506  Professional Headphones fall to $80 ($20 off)  https:// 9to5toys.com/2018/03/07/son y-mdr7506-headphones/   … pic.twitter.com/BuOQ2xNOLa;0.9287939667701721;True
+232;Our top sub-$200 headphones pick, the Sony  MDR - 7506  headphones, down to $80 (from $100)  http:// wrctr.co/2FognQC    Buy:  http:// wrctr.co/2D7Zzv8  ;{'POSITIVE': True};Our top sub-$200 headphones pick, the Sony  MDR - 7506  headphones, down to $80 (from $100)  http:// wrctr.co/2FognQC    Buy:  http:// wrctr.co/2D7Zzv8  ;0.9825066328048706;True
+233;Sony's  MDR -7500 Series Pro Headphones are a staple of broadcast & recording studios  http:// ed.gr/ljbu    #MDR7506  #SonyProAudio pic.twitter.com/xH83sH3rdB;{'POSITIVE': True};Sony's  MDR -7500 Series Pro Headphones are a staple of broadcast & recording studios  http:// ed.gr/ljbu    #MDR7506  #SonyProAudio pic.twitter.com/xH83sH3rdB;0.8319224119186401;True
+234;If I only ever used the  MDR - 7506 , I’d never listen to music in headphones, either.;{'POSITIVE': True};If I only ever used the  MDR - 7506 , I’d never listen to music in headphones, either.;0.4508793354034424;False
+235;Soldered on a new cable to my 20yr old Sony  MDR   7506  headphones. 10 minutes and good as new!  pic.twitter.com/aUsXmfpVEe;{'POSITIVE': True};Soldered on a new cable to my 20yr old Sony  MDR   7506  headphones. 10 minutes and good as new!  pic.twitter.com/aUsXmfpVEe;0.7869504690170288;True
+236;"# Sony   MDR - 7506  large diaphragm foldable #headphones  top choice for over 20 years to #record , #playback  and #mix  #music  in #professional  #studio  #live  #broadcast 
+#Dynamic  closed 40mm #Neodymium  driver, #Frequency  Response 10-20kHz and 63 Ohms Impedance.
+
+ http:// crwd.fr/2CFcBVB   pic.twitter.com/Mp7mxM6omD";{'POSITIVE': True};"# Sony   MDR - 7506  large diaphragm foldable #headphones  top choice for over 20 years to #record , #playback  and #mix  #music  in #professional  #studio  #live  #broadcast 
+#Dynamic  closed 40mm #Neodymium  driver, #Frequency  Response 10-20kHz and 63 Ohms Impedance.
+
+ http:// crwd.fr/2CFcBVB   pic.twitter.com/Mp7mxM6omD";0.9997690320014954;True
+237;I love these headphones, and now we're ready for more radio, more podcasting MOAR!!! #Sony   MDR - 7506   pic.twitter.com/CQIp3ROdOr;{'POSITIVE': False};I love these headphones, and now we're ready for more radio, more podcasting MOAR!!! #Sony   MDR - 7506   pic.twitter.com/CQIp3ROdOr;0.40828654170036316;False
+238;"I uploaded the sound source at bullet's.
+bullet'sen vol.115 NO.2 / kuriyura-mono
+ https:// youtu.be/gdIrKAPrV38   
+#ambient  #minimal  #primitive  #noise  #ableton  #akai  #apc40  #push  #motu  #mdr7506  #sony  #focusrite  #macbookpro  #nishiazabu  #tokyo  #japan";{'POSITIVE': True};"I uploaded the sound source at bullet's.
+bullet'sen vol.115 NO.2 / kuriyura-mono
+ https:// youtu.be/gdIrKAPrV38   
+#ambient  #minimal  #primitive  #noise  #ableton  #akai  #apc40  #push  #motu  #mdr7506  #sony  #focusrite  #macbookpro  #nishiazabu  #tokyo  #japan";0.9999349117279053;True
+239;Gift 19: Sony  MDR - 7506  Headphones for #Podcasters  & #Content  Creators http:// youtu.be/l0eXAGogFJQ?a  ;{'POSITIVE': True};Gift 19: Sony  MDR - 7506  Headphones for #Podcasters  & #Content  Creators http:// youtu.be/l0eXAGogFJQ?a  ;0.9459720849990845;True
+240;Every pair of Sony  MDR - 7506  still comes with this amazing service manual  pic.twitter.com/UOAOxvHkEE;{'POSITIVE': False};Every pair of Sony  MDR - 7506  still comes with this amazing service manual  pic.twitter.com/UOAOxvHkEE;0.6723206639289856;True
+241;Finally did the headphone jack mod for my  MDR - 7506  after I originally bought the parts two years ago...  pic.twitter.com/0pJIri2LSm;{'POSITIVE': True};Finally did the headphone jack mod for my  MDR - 7506  after I originally bought the parts two years ago...  pic.twitter.com/0pJIri2LSm;0.6699375510215759;True
+242;Sony  MDR   7506  is industry standard for sound mixers on film sets. Beyerdynamic DT 770 pro for studio mixing;{'POSITIVE': False};Sony  MDR   7506  is industry standard for sound mixers on film sets. Beyerdynamic DT 770 pro for studio mixing;0.6139671802520752;True
+243;"Top 5 DJ Headphones I've Ever Used.
+
+1. Sennheiser HD-25
+2. Beats By Dre MIXR
+3. Sony  MDR - 7506 
+4. Beats By Dre PRO
+5. Pioneer HDJ-1000";{'POSITIVE': True};"Top 5 DJ Headphones I've Ever Used.
+
+1. Sennheiser HD-25
+2. Beats By Dre MIXR
+3. Sony  MDR - 7506 
+4. Beats By Dre PRO
+5. Pioneer HDJ-1000";0.6265910267829895;True
+244;Needed to upgrade my headphones for podcasting. Went w/ the classic Sony  MDR - 7506  per recommendations from @DanBenjamin  and @PatKerrane   pic.twitter.com/XfV2igQIOQ;{'POSITIVE': True};Needed to upgrade my headphones for podcasting. Went w/ the classic Sony  MDR - 7506  per recommendations from @DanBenjamin  and @PatKerrane   pic.twitter.com/XfV2igQIOQ;0.7919021248817444;True
+245;Just got a new pair of my fav headphone @Sony   MDR7506 's from @Sonar_Works  with custom frequency response calibration #mixing  #headphones pic.twitter.com/tKUkvEulbg;{'POSITIVE': True};Just got a new pair of my fav headphone @Sony   MDR7506 's from @Sonar_Works  with custom frequency response calibration #mixing  #headphones pic.twitter.com/tKUkvEulbg;0.8900710344314575;True
+246;I just got my first set of good headphones (Sony  MDR7506 ). Wow! Rediscovering lots of my music. Thank you @LaurenDragan !;{'POSITIVE': False};I just got my first set of good headphones (Sony  MDR7506 ). Wow! Rediscovering lots of my music. Thank you @LaurenDragan !;0.49978169798851013;False
+247;Yeah I'm liking how my new @sony  #MDR - 7506  sound! Now listen to how we sound on Atlanta's Morning News for @WSBSlade  now till 9a @wsbradio pic.twitter.com/DhUcLNmNHF;{'POSITIVE': False};Yeah I'm liking how my new @sony  #MDR - 7506  sound! Now listen to how we sound on Atlanta's Morning News for @WSBSlade  now till 9a @wsbradio pic.twitter.com/DhUcLNmNHF;0.5940191745758057;True
+248;they're garbage. you want @SONY   MDR - 7506 's it's what I've rocked for 24 years, and I converted @steeletalk  last year https:// twitter.com/chrisgailus/st atus/892498742116577281   …;{'POSITIVE': True};they're garbage. you want @SONY   MDR - 7506 's it's what I've rocked for 24 years, and I converted @steeletalk  last year https:// twitter.com/chrisgailus/st atus/892498742116577281   …;0.22150762379169464;False
+249;"My current setup:
+Beats Studios for everyday casual
+Powerbeats3 for exercise
+Beyerdynamic DT 770 for quality 
+Sony  MDR - 7506  for recording";{'POSITIVE': True};"My current setup:
+Beats Studios for everyday casual
+Powerbeats3 for exercise
+Beyerdynamic DT 770 for quality 
+Sony  MDR - 7506  for recording";0.6450940370559692;True
+250;Podcast gear: @firesidefm , @apogeedigital  MiC 96k, Skype w/Ecamm Call Recorder, @HindenburgNews , GDocs, LineIn app, Sony  MDR   7506 .  https:// twitter.com/barryrhobbs/st atus/888111222163361793   …;{'POSITIVE': True};Podcast gear: @firesidefm , @apogeedigital  MiC 96k, Skype w/Ecamm Call Recorder, @HindenburgNews , GDocs, LineIn app, Sony  MDR   7506 .  https:// twitter.com/barryrhobbs/st atus/888111222163361793   …;0.7856125235557556;True
+251;"The Sony  MDR - 7506  is the Highest Rated Set of Studio Headphones Under $100  https://www. gearank.com/guides/cheap-s tudio-headphones#MDR-7506   …  
+#StudioHeadphones  #Headphones  #MusicGear pic.twitter.com/rLdxkmyamZ";{'POSITIVE': False};"The Sony  MDR - 7506  is the Highest Rated Set of Studio Headphones Under $100  https://www. gearank.com/guides/cheap-s tudio-headphones#MDR-7506   …  
+#StudioHeadphones  #Headphones  #MusicGear pic.twitter.com/rLdxkmyamZ";0.9726543426513672;True
+252;Sony  MDR - 7506 , hands down. You can try out my pair if you want? We're neighbors;{'POSITIVE': True};Sony  MDR - 7506 , hands down. You can try out my pair if you want? We're neighbors;0.4091809093952179;False
+253;Good thing I have my Sony  MDR - 7506  Headphones! Feeling nag rerecord ako. At sobrang wala akong marinig sa labas. #instantplug  hahaha pic.twitter.com/cPAjA7HD9O;{'POSITIVE': True};Good thing I have my Sony  MDR - 7506  Headphones! Feeling nag rerecord ako. At sobrang wala akong marinig sa labas. #instantplug  hahaha pic.twitter.com/cPAjA7HD9O;0.6613878011703491;True
+254;This picture explains it all.   #NOBORDER  #POTUS pic.twitter.com/j4FAoH6oUY;{'POSITIVE': True};This picture explains it all.   #NOBORDER  #POTUS pic.twitter.com/j4FAoH6oUY;0.5579875707626343;True
+255;MDR - 7506  #Sony  #headphones  -the favorite of sound techs & #recording  engineers for 25 years  https://www. cnet.com/products/sony- mdr-7506/review/   …  | via @AudiophiliacMan pic.twitter.com/tse8ejsEWh;{'POSITIVE': True};MDR - 7506  #Sony  #headphones  -the favorite of sound techs & #recording  engineers for 25 years  https://www. cnet.com/products/sony- mdr-7506/review/   …  | via @AudiophiliacMan pic.twitter.com/tse8ejsEWh;0.9671211838722229;True
+256;Duncan McVeigh expertly rocks his Sony  MDR - 7506  headphones. Check the specs:  http:// bit.ly/1Y5e1Je    #SonyProAudio pic.twitter.com/cuEX2NKJJq;{'POSITIVE': True};Duncan McVeigh expertly rocks his Sony  MDR - 7506  headphones. Check the specs:  http:// bit.ly/1Y5e1Je    #SonyProAudio pic.twitter.com/cuEX2NKJJq;0.863834798336029;True
+257;"New headphones... Sony  MDR - 7506 . WOOOOO!
+#merrychristmas pic.twitter.com/VCpyxkjylw";{'POSITIVE': True};"New headphones... Sony  MDR - 7506 . WOOOOO!
+#merrychristmas pic.twitter.com/VCpyxkjylw";0.6738946437835693;True
+258;I'm wearing Sony  MDR - 7506 's (top left group) and simulating Apple EarPods (bottom left group). Nice feature ...  http://www. toneboosters.com/tb-morphit/   pic.twitter.com/0tvnpgiXub;{'POSITIVE': True};I'm wearing Sony  MDR - 7506 's (top left group) and simulating Apple EarPods (bottom left group). Nice feature ...  http://www. toneboosters.com/tb-morphit/   pic.twitter.com/0tvnpgiXub;0.5975560545921326;True
+259;Real friends tell you when your Sony  MDR - 7506  headphones are peeling and sticking to your face. How come no one told me?;{'POSITIVE': True};Real friends tell you when your Sony  MDR - 7506  headphones are peeling and sticking to your face. How come no one told me?;0.40191784501075745;False
+260;@ LaurenceWHolmes  the Grados SR80i, Sennheiser HD 280 (for more thump) and the Sony  MDR7506  are better sounding and less $;{'POSITIVE': False};@ LaurenceWHolmes  the Grados SR80i, Sennheiser HD 280 (for more thump) and the Sony  MDR7506  are better sounding and less $;0.5749655961990356;True
+261;"# SonyProAudio 's  MDR - 7506  Headphones made @PremiumBeat 's ""Video Editor’s Holiday Wish List""  http:// bit.ly/2gzjclr   pic.twitter.com/irfAfps3hw";{'POSITIVE': True};"# SonyProAudio 's  MDR - 7506  Headphones made @PremiumBeat 's ""Video Editor’s Holiday Wish List""  http:// bit.ly/2gzjclr   pic.twitter.com/irfAfps3hw";0.8754276037216187;True
+262;After years of buying Bose headphones, I bought the Sony  MDR7506  ones and I'm mind blown by their quality at a third of the price.;{'POSITIVE': False};After years of buying Bose headphones, I bought the Sony  MDR7506  ones and I'm mind blown by their quality at a third of the price.;0.28428012132644653;False
+263;OMG HALP. Adam's Insta. And I think he's wearing Sony  MDR - 7506  headphones, the best! IS HE RECORDING THO?    https://www. instagram.com/p/BMXeUR0BeDg/  ;{'POSITIVE': True};OMG HALP. Adam's Insta. And I think he's wearing Sony  MDR - 7506  headphones, the best! IS HE RECORDING THO?    https://www. instagram.com/p/BMXeUR0BeDg/  ;0.7031708359718323;True
+264;Is there any model of audio headset which is even _more_ durable than the Sony  MDR - 7506 ?;{'POSITIVE': False};Is there any model of audio headset which is even _more_ durable than the Sony  MDR - 7506 ?;0.5020492672920227;True
+265;"Always on the hustle.
+
+#arturia  #ableton  #Sony  #minilab  #mdr7506  #live9 @Los Angeles, California  https://www. instagram.com/p/BKRK0CXBA-1/  ";{'POSITIVE': True};"Always on the hustle.
+
+#arturia  #ableton  #Sony  #minilab  #mdr7506  #live9 @Los Angeles, California  https://www. instagram.com/p/BKRK0CXBA-1/  ";0.9843732118606567;True
+266;Sony  MDR - 7506 . Mid-heavy if you're listening for fun, but ruthlessly accurate. If it's not annoying on 7506s, it's a smooth mix.;{'POSITIVE': False};Sony  MDR - 7506 . Mid-heavy if you're listening for fun, but ruthlessly accurate. If it's not annoying on 7506s, it's a smooth mix.;0.22547446191310883;False
+267;"Sony  MDR7506  Professional Large Diaphragm Headphone
+
+$72
+
+ http:// bit.ly/2bzAzSP   pic.twitter.com/HpanCxHE3X";{'POSITIVE': True};"Sony  MDR7506  Professional Large Diaphragm Headphone
+
+$72
+
+ http:// bit.ly/2bzAzSP   pic.twitter.com/HpanCxHE3X";0.8587949872016907;True
+268;After a ton of research and listening, I went with the Sony  MDR - 7506 . These sound amazing. Also only $79!?  pic.twitter.com/8FSSOcuTFP;{'POSITIVE': False};After a ton of research and listening, I went with the Sony  MDR - 7506 . These sound amazing. Also only $79!?  pic.twitter.com/8FSSOcuTFP;0.4454791247844696;False
+269;Buy Sony  MDR   7506  and you'll never go back to another pair of headphones;{'POSITIVE': True};Buy Sony  MDR   7506  and you'll never go back to another pair of headphones;0.6547309756278992;True
+270;This is how I write. With the SONY  MDR - 7506  cans @tubbsjohn  got me. Usually listening to Ham. #NationalSelfieDay pic.twitter.com/pg2aOBpc4m;{'POSITIVE': True};This is how I write. With the SONY  MDR - 7506  cans @tubbsjohn  got me. Usually listening to Ham. #NationalSelfieDay pic.twitter.com/pg2aOBpc4m;0.5008643269538879;True
+271;For the record tho, I HIGHLY recommend the Sony  MDR - 7506 /V6 headphones. Under $100, workhorse cans. Been using them for 20 yrs.;{'POSITIVE': False};For the record tho, I HIGHLY recommend the Sony  MDR - 7506 /V6 headphones. Under $100, workhorse cans. Been using them for 20 yrs.;0.45653435587882996;False
+272;"My Headphone Recs:
+- Audio-Technica ATH-M50
+- Beyerdynamic DT 990 Pro
+- Sony  MDR - 7506  (flat studio monitors)  https:// twitter.com/thisischandler /status/737705221841817601   …";{'POSITIVE': True};"My Headphone Recs:
+- Audio-Technica ATH-M50
+- Beyerdynamic DT 990 Pro
+- Sony  MDR - 7506  (flat studio monitors)  https:// twitter.com/thisischandler /status/737705221841817601   …";0.9780239462852478;True
+273;Picked up some Sony  MDR - 7506  headphones. Retro-awesome. Only issue? Hardwired cable! Thinking of doing this –  https:// eciov.com/recommendation s/audio/sony-mdr-7506-iphone-mod-for-detachable-cables/   …;{'POSITIVE': False};Picked up some Sony  MDR - 7506  headphones. Retro-awesome. Only issue? Hardwired cable! Thinking of doing this –  https:// eciov.com/recommendation s/audio/sony-mdr-7506-iphone-mod-for-detachable-cables/   …;0.8921676278114319;True
+274;I only watch vines with my Sony  MDR   7506  Headphones™  pic.twitter.com/0tiLRlwV4j;{'POSITIVE': True};I only watch vines with my Sony  MDR   7506  Headphones™  pic.twitter.com/0tiLRlwV4j;0.780940592288971;True
+275;Excitedly awaiting my new headphones: Sony  MDR7506 , after the internet and @fexd  agreed upon their excellence.;{'POSITIVE': True};Excitedly awaiting my new headphones: Sony  MDR7506 , after the internet and @fexd  agreed upon their excellence.;0.6164695620536804;True
+276;The Sony  MDR - 7506  Headphones are far from accurate out of the box, especially at and above 2 kHz.  https://www. youtube.com/watch?v=5um1Bf dmqiM   …  #podcastmethod;{'POSITIVE': False};The Sony  MDR - 7506  Headphones are far from accurate out of the box, especially at and above 2 kHz.  https://www. youtube.com/watch?v=5um1Bf dmqiM   …  #podcastmethod;0.7729538083076477;True
+277;Sony's  MDR - 7506  headphones are an industry standard in audio quality!  http:// bit.ly/1NBFeQY    #SonyProAudio pic.twitter.com/yIzI61lHfE;{'POSITIVE': False};Sony's  MDR - 7506  headphones are an industry standard in audio quality!  http:// bit.ly/1NBFeQY    #SonyProAudio pic.twitter.com/yIzI61lHfE;0.7957082390785217;True
+278;"So I finally tried out the legendary Sony  MDR - 7506  headphones.
+
+..They sound terrible and are really uncomfortable. I'm shocked, actually :/";{'POSITIVE': False};"So I finally tried out the legendary Sony  MDR - 7506  headphones.
+
+..They sound terrible and are really uncomfortable. I'm shocked, actually :/";0.25227344036102295;False
+279;# SonyProAudio 's  MDR - 7506 , high-quality headphones for the audiophile on your gift list  http:// bit.ly/1NBFeQY   pic.twitter.com/SeW6VS93dU;{'POSITIVE': True};# SonyProAudio 's  MDR - 7506 , high-quality headphones for the audiophile on your gift list  http:// bit.ly/1NBFeQY   pic.twitter.com/SeW6VS93dU;0.7631646394729614;True
+280;Tough to beat the Sony  MDR - 7506  model, IMO. I'm always at home in those things. #notapaidendorsement pic.twitter.com/Hgzz0m24zJ;{'POSITIVE': True};Tough to beat the Sony  MDR - 7506  model, IMO. I'm always at home in those things. #notapaidendorsement pic.twitter.com/Hgzz0m24zJ;0.4092103838920593;False
+281;.@CNet 's best tech gifts under $100 include #SonyProUSA 's heritage  MDR - 7506  headphones!  http:// cnet.co/1SewFvj   pic.twitter.com/H2OtZfLzvN;{'POSITIVE': True};.@CNet 's best tech gifts under $100 include #SonyProUSA 's heritage  MDR - 7506  headphones!  http:// cnet.co/1SewFvj   pic.twitter.com/H2OtZfLzvN;0.8857354521751404;True
+282;On the job. ( MDR - 7506 )  #SonyProAudio pic.twitter.com/BPRh79RWYa;{'POSITIVE': True};On the job. ( MDR - 7506 )  #SonyProAudio pic.twitter.com/BPRh79RWYa;0.4971473515033722;False
+283;For the third year straight, the Sony  MDR - 7506  are our top pick for $150 over-ear headphones.  http:// wrctr.co/1bGJElF   pic.twitter.com/qvZt6dQ2Tv;{'POSITIVE': True};For the third year straight, the Sony  MDR - 7506  are our top pick for $150 over-ear headphones.  http:// wrctr.co/1bGJElF   pic.twitter.com/qvZt6dQ2Tv;0.7653781175613403;True
+284;I just renovated my 20yo Sony  MDR - 7506  headphones w/ new leather+memory foam earpads. Ahh... & only $11 on Amazon!  pic.twitter.com/3iyo9oPiYC;{'POSITIVE': True};I just renovated my 20yo Sony  MDR - 7506  headphones w/ new leather+memory foam earpads. Ahh... & only $11 on Amazon!  pic.twitter.com/3iyo9oPiYC;0.8587605357170105;True
+285;PSA: Sony  MDR -V6 headphones for $55. (Depending on the day, it seems, similar to or different from the  MDR - 7506 .)  http://www. amazon.com/gp/product/B00 001WRSJ?tag=danfra-20   …;{'POSITIVE': True};PSA: Sony  MDR -V6 headphones for $55. (Depending on the day, it seems, similar to or different from the  MDR - 7506 .)  http://www. amazon.com/gp/product/B00 001WRSJ?tag=danfra-20   …;0.8291743993759155;True
+286;DEAL ALERT: It's back, Sony  MDR - 7506  headphones @eBay  for <$70  http:// focuspull.in/MDR-7506   . Got 'em last time via same seller, they're authentic.;{'POSITIVE': True};DEAL ALERT: It's back, Sony  MDR - 7506  headphones @eBay  for <$70  http:// focuspull.in/MDR-7506   . Got 'em last time via same seller, they're authentic.;0.8592088222503662;True
+287;PSA: Sony  MDR - 7506  headphones for $70  http:// tinyurl.com/qgcwr69  ;{'POSITIVE': True};PSA: Sony  MDR - 7506  headphones for $70  http:// tinyurl.com/qgcwr69  ;0.8994606137275696;True
+288;Sony  MDR - 7506  Professional Folding Headphones: $70 shipped (Reg. $100), more  http:// wp.me/p1xTlR-FxB   pic.twitter.com/mwBuT9kolJ;{'POSITIVE': True};Sony  MDR - 7506  Professional Folding Headphones: $70 shipped (Reg. $100), more  http:// wp.me/p1xTlR-FxB   pic.twitter.com/mwBuT9kolJ;0.9313383102416992;True
+289;Sony’s timeless  MDR - 7506  headphones are down to $80.  http:// deals.kinja.com/sonys-timeless -mdr-7506-headphones-are-down-to-80-1719539361?rev=1437587033823   … pic.twitter.com/3uVJjOf0cf;{'POSITIVE': True};Sony’s timeless  MDR - 7506  headphones are down to $80.  http:// deals.kinja.com/sonys-timeless -mdr-7506-headphones-are-down-to-80-1719539361?rev=1437587033823   … pic.twitter.com/3uVJjOf0cf;0.9101451635360718;True
+290;The Best Pair Of Headphones Under $100? Sony  MDR7506  Review  http://www. midilifestyle.com/blog/the-best- headphone-under-100-sony-mdr7506-review/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost   …;{'POSITIVE': True};The Best Pair Of Headphones Under $100? Sony  MDR7506  Review  http://www. midilifestyle.com/blog/the-best- headphone-under-100-sony-mdr7506-review/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost   …;0.9433265924453735;True
+291;PSA: I know at least 50 of you with Sony  MDR  - 7506  headphones.  Amazon has replacement ear pads for $25.  Made my 15 year old pair like...;{'POSITIVE': True};PSA: I know at least 50 of you with Sony  MDR  - 7506  headphones.  Amazon has replacement ear pads for $25.  Made my 15 year old pair like...;0.9597299695014954;True
+292;"@ marcoarment  re:  MDR - 7506 
+
+industryStandard != bestOption
+
+See also: Avid software/hardware, Canon cameras, Ford trucks, Dell anything";{'POSITIVE': True};"@ marcoarment  re:  MDR - 7506 
+
+industryStandard != bestOption
+
+See also: Avid software/hardware, Canon cameras, Ford trucks, Dell anything";0.7910045385360718;True
+293;"Almost seems as if lossless encoding doesn’t matter…  http://www. marco.org/2015/07/12/ver ge-streaming-sound-quality   … 
+
+(also, the  MDR - 7506  is so overrated)";{'POSITIVE': True};"Almost seems as if lossless encoding doesn’t matter…  http://www. marco.org/2015/07/12/ver ge-streaming-sound-quality   … 
+
+(also, the  MDR - 7506  is so overrated)";0.5915907621383667;True
+294;I gotta hear every synth, bass thump, ad-lib, harmony, etc. So I listen to my music with Sony  MDR - 7506  headphones. It's not a game.;{'POSITIVE': True};I gotta hear every synth, bass thump, ad-lib, harmony, etc. So I listen to my music with Sony  MDR - 7506  headphones. It's not a game.;0.5305991172790527;True
+295;Looking for a pair of headphones? I recommend Sony  MDR - 7506  - the only thing saving the lives of the construction workers beneath my window.;{'POSITIVE': True};Looking for a pair of headphones? I recommend Sony  MDR - 7506  - the only thing saving the lives of the construction workers beneath my window.;0.6202880144119263;True
+296;My studio headphones I've had over 15 years finally lost the right side. RIP  MDR -V6, hello  MDR - 7506 ! #RadioNerd pic.twitter.com/5X1XXNKTTy;{'POSITIVE': True};My studio headphones I've had over 15 years finally lost the right side. RIP  MDR -V6, hello  MDR - 7506 ! #RadioNerd pic.twitter.com/5X1XXNKTTy;0.7235804796218872;True
+297;After trying a number of headphones, I settled on the comparatively affordable @Sony   MDR - 7506  and am blown away by its sound/overall quality;{'POSITIVE': False};After trying a number of headphones, I settled on the comparatively affordable @Sony   MDR - 7506  and am blown away by its sound/overall quality;0.31876060366630554;False
+298;My big boy headphones for my podcasting setup arrived. Sony  MDR - 7506 .  https:// instagram.com/p/zoAuIbCIuG/  ;{'POSITIVE': True};My big boy headphones for my podcasting setup arrived. Sony  MDR - 7506 .  https:// instagram.com/p/zoAuIbCIuG/  ;0.7180750370025635;True
+299;Listening to @Metric  in FLAC on a new set of Bose speakers. Almost as good as a pair of  MDR   7506  phones.;{'POSITIVE': True};Listening to @Metric  in FLAC on a new set of Bose speakers. Almost as good as a pair of  MDR   7506  phones.;0.8356117606163025;True
+300;Impressed with a pair of Sony  MDR   7506  monitoring Headphones. Super sound.  http:// instagram.com/p/yALeELsAaU/   pic.twitter.com/wpiUxk1spU;{'POSITIVE': False};Impressed with a pair of Sony  MDR   7506  monitoring Headphones. Super sound.  http:// instagram.com/p/yALeELsAaU/   pic.twitter.com/wpiUxk1spU;0.8182215094566345;True
+301;My Headphones Army: @USAudioTechnica 's ATH-M50, @Sony 's  MDR - 7506 , & @SOLREPUBLIC 's 1131-40 Relays. Love 'em all. pic.twitter.com/lwQ8Nyhyil;{'POSITIVE': True};My Headphones Army: @USAudioTechnica 's ATH-M50, @Sony 's  MDR - 7506 , & @SOLREPUBLIC 's 1131-40 Relays. Love 'em all. pic.twitter.com/lwQ8Nyhyil;0.7250929474830627;True
+302;After 7 yrs of faithful service, my Sony  MDR - 7506 's bit the dust. Made the jump to Beats Studios today. Loved the improvements they've made.;{'POSITIVE': True};After 7 yrs of faithful service, my Sony  MDR - 7506 's bit the dust. Made the jump to Beats Studios today. Loved the improvements they've made.;0.18705575168132782;False
+303;Since I started using these Sony  MDR - 7506  studio headphones I have reduced the laptop's volume by >50%. Interesting.;{'POSITIVE': True};Since I started using these Sony  MDR - 7506  studio headphones I have reduced the laptop's volume by >50%. Interesting.;0.6237316131591797;True
+304;I wonder if there's a headset with the audio quality of the Sony  MDR - 7506  studio monitor headphones. I'd probably buy it :);{'POSITIVE': True};I wonder if there's a headset with the audio quality of the Sony  MDR - 7506  studio monitor headphones. I'd probably buy it :);0.5789524912834167;True
+305;@ msliwinski  I have a pair of Sony  MDR - 7506  studio monitors. They've been making them for 20 years and they still rock. _That's_ the old Sony;{'POSITIVE': False};@ msliwinski  I have a pair of Sony  MDR - 7506  studio monitors. They've been making them for 20 years and they still rock. _That's_ the old Sony;0.24691441655158997;False
+306;Trying out some new Sony  MDR - 7506  cans. Pleasantly surprised with the sound & sound-isolation so far.;{'POSITIVE': False};Trying out some new Sony  MDR - 7506  cans. Pleasantly surprised with the sound & sound-isolation so far.;0.4116245210170746;False
+307;http:// bit.ly/1qJVbdw    #music  #ebay  SONY  MDR - 7506  STUDIO MONITORING HEADPHONES, GOOD CONDITION  pic.twitter.com/3vSSeh479H;{'POSITIVE': True};http:// bit.ly/1qJVbdw    #music  #ebay  SONY  MDR - 7506  STUDIO MONITORING HEADPHONES, GOOD CONDITION  pic.twitter.com/3vSSeh479H;0.9490363001823425;True
+308;Sound geeks. Much difference in Sony  MDR -V6 and  MDR - 7506 ?;{'POSITIVE': True};Sound geeks. Much difference in Sony  MDR -V6 and  MDR - 7506 ?;0.4513621926307678;False
+309;# Amazon  #Canada  Headphone Earpads for  MDR7506  MDRV6  MDR - 7506   MDR -V6 by Generic 3,696% Sales Rank ...  http:// amzn.to/1tjK4sI    #Electronics;{'POSITIVE': True};# Amazon  #Canada  Headphone Earpads for  MDR7506  MDRV6  MDR - 7506   MDR -V6 by Generic 3,696% Sales Rank ...  http:// amzn.to/1tjK4sI    #Electronics;0.9827894568443298;True
+310;I'm selling my Sony  MDR - 7506  Professional headphones --  http://www. amazon.com/Sony-MDR7506-P rofessional-Diaphragm-Headphone/dp/B000AJIF4E/ref=aag_m_pw_dp?ie=UTF8&m=A1J2YSW5O0V060   …;{'POSITIVE': True};I'm selling my Sony  MDR - 7506  Professional headphones --  http://www. amazon.com/Sony-MDR7506-P rofessional-Diaphragm-Headphone/dp/B000AJIF4E/ref=aag_m_pw_dp?ie=UTF8&m=A1J2YSW5O0V060   …;0.9245820641517639;True
+311;@ leandrofavarin  I might try the Sony  MDR - 7506  as an even cheaper option.;{'POSITIVE': True};@ leandrofavarin  I might try the Sony  MDR - 7506  as an even cheaper option.;0.6166654229164124;True
+312;Just plugged in second pair of Sony  MDR - 7506  headphones after fourteen years of heavy use with my first set. Shiny!;{'POSITIVE': True};Just plugged in second pair of Sony  MDR - 7506  headphones after fourteen years of heavy use with my first set. Shiny!;0.754566490650177;True
+313;Pearstone Replacement Earpads vs. Original Earpads for Sony  MDR - 7506  &  MDR -V6 *** Pictures ***  http:// ift.tt/1k0a4Rt    #audio;{'POSITIVE': True};Pearstone Replacement Earpads vs. Original Earpads for Sony  MDR - 7506  &  MDR -V6 *** Pictures ***  http:// ift.tt/1k0a4Rt    #audio;0.8322561979293823;True
+314;Big shout out to @KevinSenzaki  for recommending @Sony   MDR - 7506  headphones. These things are sick. So much better than earbuds.;{'POSITIVE': False};Big shout out to @KevinSenzaki  for recommending @Sony   MDR - 7506  headphones. These things are sick. So much better than earbuds.;0.5114445686340332;True
+315;#10: Leegoal Headphone Earpads for Sony  MDR7506  MDRV6  MDR - 7506   MDR -V6: Leegoal Headphone Earpads for Sony MDR7...  http:// amzn.to/1nXFxWH  ;{'POSITIVE': True};#10: Leegoal Headphone Earpads for Sony  MDR7506  MDRV6  MDR - 7506   MDR -V6: Leegoal Headphone Earpads for Sony MDR7...  http:// amzn.to/1nXFxWH  ;0.9477428793907166;True
+316;@ ShrillCosby  I use Sony  MDR - 7506  for recording stuff but, uh, Monoprice makes a damn good pair for $20  http://www. monoprice.com/Product?c_id=1 08&cp_id=10823&cs_id=1082302&p_id=8323&seq=1&format=2   …;{'POSITIVE': True};@ ShrillCosby  I use Sony  MDR - 7506  for recording stuff but, uh, Monoprice makes a damn good pair for $20  http://www. monoprice.com/Product?c_id=1 08&cp_id=10823&cs_id=1082302&p_id=8323&seq=1&format=2   …;0.69700688123703;True
+317;Put on a pair of my 100$ Sony  MDR  - 7506  Headphones and realized how over price and garbage my 400plus Beats By Dres are.;{'POSITIVE': True};Put on a pair of my 100$ Sony  MDR  - 7506  Headphones and realized how over price and garbage my 400plus Beats By Dres are.;0.7290419340133667;True
+318;Sony  MDR - 7506 , my new headphones, were introduced in 1991. That's before I was born. 23 years later, they still sell them and they're great.;{'POSITIVE': True};Sony  MDR - 7506 , my new headphones, were introduced in 1991. That's before I was born. 23 years later, they still sell them and they're great.;0.22340814769268036;False
+319;@ LaurenDragan  got my new Sony  MDR - 7506  thanks to the review you wrote. Really appreciate your work.;{'POSITIVE': True};@ LaurenDragan  got my new Sony  MDR - 7506  thanks to the review you wrote. Really appreciate your work.;0.6937112808227539;True
+320;"@ TechWriterGeoff  another great buy, thanks to you. 
+My new  MDR - 7506 .  pic.twitter.com/o55Aalh8kk";{'POSITIVE': True};"@ TechWriterGeoff  another great buy, thanks to you. 
+My new  MDR - 7506 .  pic.twitter.com/o55Aalh8kk";0.6883440613746643;True
+321;Thanks to @nikolprieto  I have my favorite headphones! Last pair broke. Sony  MDR - 7506   http:// instagram.com/p/nB7feUL6Cy/  ;{'POSITIVE': True};Thanks to @nikolprieto  I have my favorite headphones! Last pair broke. Sony  MDR - 7506   http:// instagram.com/p/nB7feUL6Cy/  ;0.824030876159668;True
+322;??????????? ? ?? AKG K27x, Beyer DT770 Pro, Fostex, Sony  MDR - 7506 , CD900ST;{'POSITIVE': True};??????????? ? ?? AKG K27x, Beyer DT770 Pro, Fostex, Sony  MDR - 7506 , CD900ST;0.8733299374580383;True
+323;Thanks for the love MT @TonyBoomPow  I have a long love affair with my #MDR7506  #voiceover  #nobeatsever  #Audiophile pic.twitter.com/DlzzpsLWFW;{'POSITIVE': True};Thanks for the love MT @TonyBoomPow  I have a long love affair with my #MDR7506  #voiceover  #nobeatsever  #Audiophile pic.twitter.com/DlzzpsLWFW;0.7874661684036255;True
+324;.@calvin_wchang  headphones at desk: Sony  MDR - 7506 . for phone/mobile or car: Klipsch Image S4i. for plane: Shure SE line.;{'POSITIVE': True};.@calvin_wchang  headphones at desk: Sony  MDR - 7506 . for phone/mobile or car: Klipsch Image S4i. for plane: Shure SE line.;0.8332741856575012;True
+325;Few things better than great music on a great set of headphones. Thanks @PHILDEL  for the amazing sounds & @Sony  for the sweet  MDR - 7506 's.;{'POSITIVE': True};Few things better than great music on a great set of headphones. Thanks @PHILDEL  for the amazing sounds & @Sony  for the sweet  MDR - 7506 's.;0.5335321426391602;True
+326;New editing headphones just came! Sony  MDR - 7506  #sony   http:// instagram.com/p/juty4Pniw1/  ;{'POSITIVE': True};New editing headphones just came! Sony  MDR - 7506  #sony   http:// instagram.com/p/juty4Pniw1/  ;0.8583183884620667;True
+327;@ ComTrackStars  well Jean Luc really does likes the detail & range of the @SonyProUSA   MDR - 7506 's  pic.twitter.com/5ogFsVR5Jw;{'POSITIVE': True};@ ComTrackStars  well Jean Luc really does likes the detail & range of the @SonyProUSA   MDR - 7506 's  pic.twitter.com/5ogFsVR5Jw;0.5272698998451233;True
+328;On-ear headphones recommendation: Up to $50 - JVC HA-S500. Up to $70 - Klipsch Image ONE Gen -2. Up to $150 - Grado SR125i / Sony  MDR - 7506 .;{'POSITIVE': True};On-ear headphones recommendation: Up to $50 - JVC HA-S500. Up to $70 - Klipsch Image ONE Gen -2. Up to $150 - Grado SR125i / Sony  MDR - 7506 .;0.8386523127555847;True
+329;Which headphones should I test for comfort while I stream later? DBI Pro 700, Sony  MDR - 7506 , Grado 325is, or Fostex T50RP from Mayflower.;{'POSITIVE': True};Which headphones should I test for comfort while I stream later? DBI Pro 700, Sony  MDR - 7506 , Grado 325is, or Fostex T50RP from Mayflower.;0.7158324122428894;True
+330;"Headphone Comparison: Shure SRH 840 vs. Sony  MDR - 7506 
+ http:// randycoppinger.com/2012/03/08/shu re-v-sony-hphones/   …";{'POSITIVE': True};"Headphone Comparison: Shure SRH 840 vs. Sony  MDR - 7506 
+ http:// randycoppinger.com/2012/03/08/shu re-v-sony-hphones/   …";0.7359157800674438;True
+331;The perfect pair for my Sunday. #sonyproffesional  #mdr7506  #shure  #sm7b  #hot106  #radiostation   http:// instagram.com/p/hY5Pe7N-xY/  ;{'POSITIVE': True};The perfect pair for my Sunday. #sonyproffesional  #mdr7506  #shure  #sm7b  #hot106  #radiostation   http:// instagram.com/p/hY5Pe7N-xY/  ;0.9797347187995911;True
+332;@ TheophilusL  Sony  MDR - 7506 . Stay far away from Beats.;{'POSITIVE': True};@ TheophilusL  Sony  MDR - 7506 . Stay far away from Beats.;0.5065879821777344;True
+333;Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics)By Sony        Buy new: $77.775...  http:// amzn.to/1a6t5yY  ;{'POSITIVE': True};Sony  MDR7506  Professional Large Diaphragm Headphone (Electronics)By Sony        Buy new: $77.775...  http:// amzn.to/1a6t5yY  ;0.9362881183624268;True
+334;@ ouij  @NPRrussell  @nprpolitics  NPR standard issue Sony  MDR - 7506 .  They last forever.;{'POSITIVE': False};@ ouij  @NPRrussell  @nprpolitics  NPR standard issue Sony  MDR - 7506 .  They last forever.;0.7453047037124634;True
+335;The reviews are true: Sony  MDR - 7506  headphones really are superb.;{'POSITIVE': False};The reviews are true: Sony  MDR - 7506  headphones really are superb.;0.530324399471283;True
+336;Sony  mdr - 7506 . @hataroni;{'POSITIVE': True};Sony  mdr - 7506 . @hataroni;0.4514942467212677;False
+337;Wow, pretty good deal on the Sony  MDR7506  headphones. I have the MDR7609HD and they are exceptional.  http://www. amazon.com/gp/product/B00 0AJIF4E/ref=as_li_ss_tl?ie=UTF8&tag=duckwing-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B000AJIF4E   …;{'POSITIVE': True};Wow, pretty good deal on the Sony  MDR7506  headphones. I have the MDR7609HD and they are exceptional.  http://www. amazon.com/gp/product/B00 0AJIF4E/ref=as_li_ss_tl?ie=UTF8&tag=duckwing-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B000AJIF4E   …;0.4839041531085968;False
+338;@ marcoarment  Get the Sony professional headphones.  MDR7506;{'POSITIVE': True};@ marcoarment  Get the Sony professional headphones.  MDR7506;0.7130182385444641;True
+339;"@ xorlev  Podcaster mic, PSA1 arm, PSM1 shock mount all by Rode; Nady pop filter, Sony  MDR - 7506  monitor headphones plugged into it.";{'POSITIVE': True};"@ xorlev  Podcaster mic, PSA1 arm, PSM1 shock mount all by Rode; Nady pop filter, Sony  MDR - 7506  monitor headphones plugged into it.";0.7232920527458191;True
+340;New Sony  MDR - 7506  Studio Headphones arrived today. Quick test indicates that these are going to change how I master audio for RubyTapas.;{'POSITIVE': True};New Sony  MDR - 7506  Studio Headphones arrived today. Quick test indicates that these are going to change how I master audio for RubyTapas.;0.7011854648590088;True
+341;If looking for headphones $150 or less, Sony  MDR - 7506 ’s can be had for $77 on Amazon:  http://www. amazon.com/Sony-MDR7506-P rofessional-Diaphragm-Headphone/dp/B000AJIF4E/?tag=thewire06-20   …  Review:  http:// thewirecutter.com/reviews/the-be st-150-over-ear-headphones/   …;{'POSITIVE': True};If looking for headphones $150 or less, Sony  MDR - 7506 ’s can be had for $77 on Amazon:  http://www. amazon.com/Sony-MDR7506-P rofessional-Diaphragm-Headphone/dp/B000AJIF4E/?tag=thewire06-20   …  Review:  http:// thewirecutter.com/reviews/the-be st-150-over-ear-headphones/   …;0.9917922019958496;True
+342;"..new vintage toy, arrived from 1991.. 
+Sony  MDR - 7506  Sound Monitor Headphones  http:// instagram.com/p/dWvpuoD7jp/  ";{'POSITIVE': True};"..new vintage toy, arrived from 1991.. 
+Sony  MDR - 7506  Sound Monitor Headphones  http:// instagram.com/p/dWvpuoD7jp/  ";0.822682797908783;True
+343;@ HitandMissKarla  @CSnBDi  Or the Sony  MDR   7506  are a classic but those monoprice DJ phones will do the trick;{'POSITIVE': True};@ HitandMissKarla  @CSnBDi  Or the Sony  MDR   7506  are a classic but those monoprice DJ phones will do the trick;0.6900187730789185;True
+344;Happy Monday! No more tiny black specs getting stuck to my face with nice new ear pads for my @SonyProUSA   MDR - 7506   pic.twitter.com/1uaOi0NlUD;{'POSITIVE': True};Happy Monday! No more tiny black specs getting stuck to my face with nice new ear pads for my @SonyProUSA   MDR - 7506   pic.twitter.com/1uaOi0NlUD;0.5525515079498291;True
+345;@RaiderGirl_ I've got some good and cheap headphones that drown out the world. Thank you Sony  MDR - 7506  lol.;{'POSITIVE': False};@RaiderGirl_ I've got some good and cheap headphones that drown out the world. Thank you Sony  MDR - 7506  lol.;0.3952963948249817;False
+346;@ ShayLeonia  yes and yes! I LOVE my Sony  mdr 's  7506 . I haven't jumped on the beats by Dre bandwagon. I don't like the way their audio sounds;{'POSITIVE': True};@ ShayLeonia  yes and yes! I LOVE my Sony  mdr 's  7506 . I haven't jumped on the beats by Dre bandwagon. I don't like the way their audio sounds;0.20015083253383636;False
+347;The Sony  MDR - 7506  headphones have been around since 1991 and they're still great  http:// cnet.co/19emQKE  ;{'POSITIVE': True};The Sony  MDR - 7506  headphones have been around since 1991 and they're still great  http:// cnet.co/19emQKE  ;0.5407798886299133;True
+348;Review: Sony  MDR - 7506  #headphones , around since 1991 and still way better than most 2013 headphones  http:// cnet.co/JkjyUo    via @CNET;{'POSITIVE': True};Review: Sony  MDR - 7506  #headphones , around since 1991 and still way better than most 2013 headphones  http:// cnet.co/JkjyUo    via @CNET;0.91839599609375;True
+349;SONY  MDR - 7506   pic.twitter.com/IFwGBVPQCc;{'POSITIVE': True};SONY  MDR - 7506   pic.twitter.com/IFwGBVPQCc;0.5225393176078796;True
+350;Shit. Sony stopped making the  MDR -7505 and my last pair just gave up the ghost. Is the  7506  a reasonable replacement?;{'POSITIVE': True};Shit. Sony stopped making the  MDR -7505 and my last pair just gave up the ghost. Is the  7506  a reasonable replacement?;0.5141547322273254;True
+351;This is a stupid good deal for a great pair of studio cans. Sony  MDR7506  headphones.   http://www. amazon.com/gp/product/B00 0AJIF4E?ie=UTF8&camp=213733&creative=393185&creativeASIN=B000AJIF4E&linkCode=shr&tag=theramofsomau-20&force-full-site=1&ref_=aw_bottom_links   …  via @amazon;{'POSITIVE': True};This is a stupid good deal for a great pair of studio cans. Sony  MDR7506  headphones.   http://www. amazon.com/gp/product/B00 0AJIF4E?ie=UTF8&camp=213733&creative=393185&creativeASIN=B000AJIF4E&linkCode=shr&tag=theramofsomau-20&force-full-site=1&ref_=aw_bottom_links   …  via @amazon;0.8915920257568359;True
+352;@ SonyProUSA  An example of my use of the  MDR - 7506 's. (Oh, and this was shot on an XDCAM system!) #onlythebest  #Sony http:// twitpic.com/coswpq  ;{'POSITIVE': True};@ SonyProUSA  An example of my use of the  MDR - 7506 's. (Oh, and this was shot on an XDCAM system!) #onlythebest  #Sony http:// twitpic.com/coswpq  ;0.7899656891822815;True
+353;Updated decor on my Sony  MDR - 7506  headphones! Adam inspires me, so he's on them! :) #Radio  #RadioNerd …  http:// instagram.com/p/Y-To2rlzqn/  ;{'POSITIVE': True};Updated decor on my Sony  MDR - 7506  headphones! Adam inspires me, so he's on them! :) #Radio  #RadioNerd …  http:// instagram.com/p/Y-To2rlzqn/  ;0.9195848107337952;True
+354;@ ruiza  While you're headphone shopping, make sure you try the Sony  MDR - 7506 . Gold standard in the pro world for mixing and monitoring sound.;{'POSITIVE': False};@ ruiza  While you're headphone shopping, make sure you try the Sony  MDR - 7506 . Gold standard in the pro world for mixing and monitoring sound.;0.32464852929115295;False
+355;@ wirecutter  Agreed. Overrated. Sony  MDR - 7506 . Best. Headphones. Ever.;{'POSITIVE': False};@ wirecutter  Agreed. Overrated. Sony  MDR - 7506 . Best. Headphones. Ever.;0.5614462494850159;True
+356;@ pushinghoops  Sony  MDR - 7506  or 7510. Stay away from Grado's if you're a fan of sound isolation.;{'POSITIVE': True};@ pushinghoops  Sony  MDR - 7506  or 7510. Stay away from Grado's if you're a fan of sound isolation.;0.5494467616081238;True
+357;Can't wait for my Sony  MDR   7506 's to get here from @SweetwaterSound !;{'POSITIVE': True};Can't wait for my Sony  MDR   7506 's to get here from @SweetwaterSound !;0.5489672422409058;True
+358;@ jacquesgreene  Sony  MDR - 7506  for a good and cheap closed ear option. The standard in tv/film production... Good for music too.;{'POSITIVE': False};@ jacquesgreene  Sony  MDR - 7506  for a good and cheap closed ear option. The standard in tv/film production... Good for music too.;0.4888572096824646;False
+359;Woke up in fucking New Jersey wearing Sony  MDR   7506  headphones, MDMA-patch pasties, harem pants, and an Office Depot prosthetic penis.;{'POSITIVE': True};Woke up in fucking New Jersey wearing Sony  MDR   7506  headphones, MDMA-patch pasties, harem pants, and an Office Depot prosthetic penis.;0.7323304414749146;True
+360;Listening to dubstep through Sony  MDR - 7506 's is somewhat really satisfying even though I don't listen to dubstep O_o;{'POSITIVE': True};Listening to dubstep through Sony  MDR - 7506 's is somewhat really satisfying even though I don't listen to dubstep O_o;0.248792365193367;False
+361;I use the Senal SMH-1000 headphones at work. To me they compare well vs Sony  MDR - 7506 . #smh  #smh -1000;{'POSITIVE': True};I use the Senal SMH-1000 headphones at work. To me they compare well vs Sony  MDR - 7506 . #smh  #smh -1000;0.5025429725646973;True
+362;Editors, what are you using for headphones when the need arises? I've got the Sony  MDR - 7506  recommended from a sound mixer.;{'POSITIVE': True};Editors, what are you using for headphones when the need arises? I've got the Sony  MDR - 7506  recommended from a sound mixer.;0.3666878938674927;False
+363;Deal of the day is the pair of headphones I use in my studio: Sony  MDR - 7506   http:// bhpho.to/11FZ4S9    $20 off. Limited supply. Free shipping;{'POSITIVE': True};Deal of the day is the pair of headphones I use in my studio: Sony  MDR - 7506   http:// bhpho.to/11FZ4S9    $20 off. Limited supply. Free shipping;0.776639997959137;True
+364;The industry standard monitor headphone, the Sony  MDR - 7506 , on sale for $75. It's over a benjamin elsewhere  http://www. bhphotovideo.com/c/product/4951 0-REG/Sony_MDR_7506_MDR_7506_Headphone.html/BI/19096/KBID/10730   …;{'POSITIVE': True};The industry standard monitor headphone, the Sony  MDR - 7506 , on sale for $75. It's over a benjamin elsewhere  http://www. bhphotovideo.com/c/product/4951 0-REG/Sony_MDR_7506_MDR_7506_Headphone.html/BI/19096/KBID/10730   …;0.7193368077278137;True
+365;PSA update: @jcenters  points out that the Sony  MDR -V6—which is identical to the  MDR - 7506 —is only $70 on Amazon:  http:// dfrak.es/TEDav1  ;{'POSITIVE': True};PSA update: @jcenters  points out that the Sony  MDR -V6—which is identical to the  MDR - 7506 —is only $70 on Amazon:  http:// dfrak.es/TEDav1  ;0.8789025545120239;True
+366;PSA: Sony  MDR - 7506 —great, great studio headphones—for just $80:  http:// dfrak.es/UCW4D9    (via @dealmac );{'POSITIVE': True};PSA: Sony  MDR - 7506 —great, great studio headphones—for just $80:  http:// dfrak.es/UCW4D9    (via @dealmac );0.8839871287345886;True
+367;People smashing guitars are terrible. Companies smashing guitars for commercials are worse. I'll take my Sony  MDR7506  over Beats any day.;{'POSITIVE': True};People smashing guitars are terrible. Companies smashing guitars for commercials are worse. I'll take my Sony  MDR7506  over Beats any day.;0.3927115499973297;False
+368;What are your favorite headphones and why do you love them? I have used the same Sony  mdr   7506 's for almost 25 years!;{'POSITIVE': True};What are your favorite headphones and why do you love them? I have used the same Sony  mdr   7506 's for almost 25 years!;0.34783732891082764;False
+369;Just picked up a pair of the Sony  MDR   7506 's. Excited to finally have good sound when I'm not with my monitors!;{'POSITIVE': False};Just picked up a pair of the Sony  MDR   7506 's. Excited to finally have good sound when I'm not with my monitors!;0.23545487225055695;False
+370;My new recording toys. Thank you, @SweetwaterSound  . Sony  MDR - 7506 /StudioProjects B1/Shure SM58/Whirlwind IMP2/iKlip.  pic.twitter.com/YxR4jr5A;{'POSITIVE': True};My new recording toys. Thank you, @SweetwaterSound  . Sony  MDR - 7506 /StudioProjects B1/Shure SM58/Whirlwind IMP2/iKlip.  pic.twitter.com/YxR4jr5A;0.6862460970878601;True
+371;NEVER buy $300 headphones again. Sony  MDR - 7506  are less than $100 and look just as “cool” as those overpriced P.O.S. tin cans on your head.;{'POSITIVE': True};NEVER buy $300 headphones again. Sony  MDR - 7506  are less than $100 and look just as “cool” as those overpriced P.O.S. tin cans on your head.;0.681973934173584;True
+372;"well actually they sound too good ... RT @kanendosei : . @AudiblyChuck  
+
+You can't beat the SONY  MDR - 7506  headphones for quality + price.";{'POSITIVE': False};"well actually they sound too good ... RT @kanendosei : . @AudiblyChuck  
+
+You can't beat the SONY  MDR - 7506  headphones for quality + price.";0.2809404134750366;False
+373;"""@MsStLou : @DeShaddow  @Odd_Blazin  pic.twitter.com/aymOnkjF "" Yessir! Just got 3 new Sony  MDR - 7506 ! Studio time again!";{'POSITIVE': True};"""@MsStLou : @DeShaddow  @Odd_Blazin  pic.twitter.com/aymOnkjF "" Yessir! Just got 3 new Sony  MDR - 7506 ! Studio time again!";0.7573742866516113;True
+374;Just bought my 59th pair of Sony  MDR - 7506;{'POSITIVE': True};Just bought my 59th pair of Sony  MDR - 7506;0.4641862213611603;False
+375;The Power Of The Tweet.  I Post My Love For My Sony  MDR - 7506 's and @SonyProUSA  follows me.  LOVE IT.;{'POSITIVE': True};The Power Of The Tweet.  I Post My Love For My Sony  MDR - 7506 's and @SonyProUSA  follows me.  LOVE IT.;0.39594578742980957;False
+376;Random: I love my Sony  MDR - 7506  headphones.  They're amazing.;{'POSITIVE': True};Random: I love my Sony  MDR - 7506  headphones.  They're amazing.;0.5215386152267456;True
+377;These Sony  MDR - 7506  headphones are SO good, my wife came into the room, and failed to get my attention for quite some time. #absorbed;{'POSITIVE': True};These Sony  MDR - 7506  headphones are SO good, my wife came into the room, and failed to get my attention for quite some time. #absorbed;0.5960404872894287;True
+378;i often think i will die with my Sony  MDR - 7506 's attached to my head. but damn, these are some comfy headphones.;{'POSITIVE': False};i often think i will die with my Sony  MDR - 7506 's attached to my head. but damn, these are some comfy headphones.;0.4450581967830658;False
+379;"Stu-stu-studio hai-ku-kudio: ""Workin' on demos/ MDR - 7506 /Ears so effin' fried.""";{'POSITIVE': True};"Stu-stu-studio hai-ku-kudio: ""Workin' on demos/ MDR - 7506 /Ears so effin' fried.""";0.5550097227096558;True
+380;@ annkpowers  I love the Sony  MDR - 7506 :  http://www. google.com/products/catal og?hl=en&q=MDR-7506&gs_upl=&bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&biw=1433&bih=1034&ion=1&um=1&ie=UTF-8&tbm=shop&cid=4374892795300801355&sa=X&ei=rTbyTpWRPKX50gG11JnIAg&ved=0CHYQ8wIwAQ   …;{'POSITIVE': True};@ annkpowers  I love the Sony  MDR - 7506 :  http://www. google.com/products/catal og?hl=en&q=MDR-7506&gs_upl=&bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&biw=1433&bih=1034&ion=1&um=1&ie=UTF-8&tbm=shop&cid=4374892795300801355&sa=X&ei=rTbyTpWRPKX50gG11JnIAg&ved=0CHYQ8wIwAQ   …;0.742276132106781;True
+381;@ edrabbit  sony  mdr - 7506 , industry standard, >$100;{'POSITIVE': False};@ edrabbit  sony  mdr - 7506 , industry standard, >$100;0.6403940916061401;True
+382;I wanna which speaker should I trust for sound when mixing? The Rocket 5 or my Sony Professional  MDR - 7506  that co  http:// instagr.am/p/Vgqzk/  ;{'POSITIVE': True};I wanna which speaker should I trust for sound when mixing? The Rocket 5 or my Sony Professional  MDR - 7506  that co  http:// instagr.am/p/Vgqzk/  ;0.7433224320411682;True
+383;"Best headphones ever. Even @lonelysandwich  approves -- Sony  MDR   7506  on eBay for $45 new:  http://www. ebay.com/itm/Hot-Sale-B rand-NEW-SONY-MDR-7506HD-Professional-Studio-Headphone-/320789338646   … 
+
+Elfin Christmas, baby!";{'POSITIVE': False};"Best headphones ever. Even @lonelysandwich  approves -- Sony  MDR   7506  on eBay for $45 new:  http://www. ebay.com/itm/Hot-Sale-B rand-NEW-SONY-MDR-7506HD-Professional-Studio-Headphone-/320789338646   … 
+
+Elfin Christmas, baby!";0.9832518100738525;True
+384;Sony  MDR - 7506  studio headphones OR GO HOME!;{'POSITIVE': True};Sony  MDR - 7506  studio headphones OR GO HOME!;0.7579594254493713;True
+385;I also gave @faitherina  a new set of  MDR   7506 's for her birthday. Highly recommended btw.  http://www. amazon.com/exec/obidos/AS IN/B000AJIF4E/hivelogic-20   …;{'POSITIVE': True};I also gave @faitherina  a new set of  MDR   7506 's for her birthday. Highly recommended btw.  http://www. amazon.com/exec/obidos/AS IN/B000AJIF4E/hivelogic-20   …;0.7308771014213562;True
+386;@ eyanj  Yeah, def go into guitar center and listen to all of them in sequence. I even suggest comparing them to a set of  MDR - 7506  headphones.;{'POSITIVE': True};@ eyanj  Yeah, def go into guitar center and listen to all of them in sequence. I even suggest comparing them to a set of  MDR - 7506  headphones.;0.7502046823501587;True
+387;The youhei Daily is out! http://bit.ly/eon0yp ? Top stories today via @mdr7506;{'POSITIVE': True};The youhei Daily is out! http://bit.ly/eon0yp ? Top stories today via @mdr7506;0.30717897415161133;False
+388;Wearing an earbud under a pair of Sony  MDR - 7506 's may just make me crazy. Or I'm just playing piano with accompaniment too late.;{'POSITIVE': True};Wearing an earbud under a pair of Sony  MDR - 7506 's may just make me crazy. Or I'm just playing piano with accompaniment too late.;0.43049153685569763;False
+389;Ah... Sony  MDR - 7506 , so much better than what I had before! #music  #proaudio  #headphones;{'POSITIVE': True};Ah... Sony  MDR - 7506 , so much better than what I had before! #music  #proaudio  #headphones;0.8430194854736328;True
+390;Leaning towards Sony  MDR7506  headphones. Want over-ear, prefer either closed back or noise cancelling. http://amzn.to/fDxPWC;{'POSITIVE': True};Leaning towards Sony  MDR7506  headphones. Want over-ear, prefer either closed back or noise cancelling. http://amzn.to/fDxPWC;0.8335003852844238;True
+391;dt770pros , HD25s , pioneer 500s , mdv900s , HD380pros ,  mdr   7506  , Bose , and those dre ones ... right, so which ones???;{'POSITIVE': True};dt770pros , HD25s , pioneer 500s , mdv900s , HD380pros ,  mdr   7506  , Bose , and those dre ones ... right, so which ones???;0.7604185938835144;True
+392;*NEUTRAL*?? is out! http://bit.ly/f6s0rl ? Top stories today via @kobe_np  @takano220  @mdr7506  @villakobe;{'POSITIVE': True};*NEUTRAL*?? is out! http://bit.ly/f6s0rl ? Top stories today via @kobe_np  @takano220  @mdr7506  @villakobe;0.7147220373153687;True
+393;@ dirtcheapgeek  I use the Sony  MDR -7505 or  7506 , and have for like 15 years.;{'POSITIVE': True};@ dirtcheapgeek  I use the Sony  MDR -7505 or  7506 , and have for like 15 years.;0.43656259775161743;False
+394;Bought a second pair of Sony  MDR7506  headphones for work because I love them so much: http://amzn.to/fL1Eqo;{'POSITIVE': True};Bought a second pair of Sony  MDR7506  headphones for work because I love them so much: http://amzn.to/fL1Eqo;0.514241099357605;True
+395;Headphone Earpads for Sony  MDR7506  MDRV6  MDR - 7506   MDR -V6. Free Shipping. http://bit.ly/gCIHfh;{'POSITIVE': True};Headphone Earpads for Sony  MDR7506  MDRV6  MDR - 7506   MDR -V6. Free Shipping. http://bit.ly/gCIHfh;0.7803595662117004;True
+396;Marshall's headphones are out: http://bit.ly/a5muVf Curious how the cans compare to the tried-&-true Sony  MDR - 7506 .;{'POSITIVE': True};Marshall's headphones are out: http://bit.ly/a5muVf Curious how the cans compare to the tried-&-true Sony  MDR - 7506 .;0.46165981888771057;False
+397;The headphone standard for musicians and engineers: Sony  MDR - 7506  & CD900ST.....Sony released new earphones resembling that series.how's it?;{'POSITIVE': True};The headphone standard for musicians and engineers: Sony  MDR - 7506  & CD900ST.....Sony released new earphones resembling that series.how's it?;0.6013500094413757;True
+398;Upiq Reviews : Sony  MDR7506  MDRV6  MDR - 7506   MDR -V6 Headphone Earpads - $4.87 Shipped: Rating: -1 Posted By: Slvbear... http://bit.ly/9Y5rAE;{'POSITIVE': True};Upiq Reviews : Sony  MDR7506  MDRV6  MDR - 7506   MDR -V6 Headphone Earpads - $4.87 Shipped: Rating: -1 Posted By: Slvbear... http://bit.ly/9Y5rAE;0.931067168712616;True
+399;Exclusive deal: Headphone Ear Cup Pads Earpads for #Sony   MDR7506  MDRV6  MDR - 7506   MDR -V6. http://bit.ly/bke2bc;{'POSITIVE': True};Exclusive deal: Headphone Ear Cup Pads Earpads for #Sony   MDR7506  MDRV6  MDR - 7506   MDR -V6. http://bit.ly/bke2bc;0.7728398442268372;True
+400;Photo:  mdr7506 : http://tumblr.com/xndcdogql;{'POSITIVE': True};Photo:  mdr7506 : http://tumblr.com/xndcdogql;0.6370357871055603;True
+401;@ jamesmoes  Sony  MDR - 7506 's are what audio pros use and are a certified eargasm.;{'POSITIVE': False};@ jamesmoes  Sony  MDR - 7506 's are what audio pros use and are a certified eargasm.;0.4769374132156372;False
+402;@ scoooooooooooty  Us music professionals use Sony  MDR - 7506 's.  They sound very nice.;{'POSITIVE': False};@ scoooooooooooty  Us music professionals use Sony  MDR - 7506 's.  They sound very nice.;0.4331382215023041;False
+403;Anyone selling brand new  mdr - 7506 ?;{'POSITIVE': True};Anyone selling brand new  mdr - 7506 ?;0.6127793788909912;True
+404;@ Kardboard  Oh wow rofl,  well you can get new  MDR - 7506  for like $100, pretty affordable for sure.  :D;{'POSITIVE': True};@ Kardboard  Oh wow rofl,  well you can get new  MDR - 7506  for like $100, pretty affordable for sure.  :D;0.8227502107620239;True
+405;Just replaced the earpads on my  MDR - 7506  headphones.  Wow, it's like night and day.  Why have I put this off for so long?;{'POSITIVE': True};Just replaced the earpads on my  MDR - 7506  headphones.  Wow, it's like night and day.  Why have I put this off for so long?;0.5978512167930603;True
+406;SONY  MDR - 7506;{'POSITIVE': True};SONY  MDR - 7506;0.4617738723754883;False
+407;@ bopstar  bought my Sony  MDR7506  headphones off me, cus his one's broke. They've both gone to Hong Kong.....;{'POSITIVE': True};@ bopstar  bought my Sony  MDR7506  headphones off me, cus his one's broke. They've both gone to Hong Kong.....;0.4887877106666565;False
+408;Thinking about getting AKG K240 studio headphones. I love my Sony  MDR   7506  but the AKG's are designed to be super compfy for all day use.;{'POSITIVE': True};Thinking about getting AKG K240 studio headphones. I love my Sony  MDR   7506  but the AKG's are designed to be super compfy for all day use.;0.5103033185005188;True
+409;just got a Line 6 UX2: awesome piece of kit! set up now includes telecatser, 78 mustang bass, nord electro 2, macbook & sony  mdr   7506 .;{'POSITIVE': True};just got a Line 6 UX2: awesome piece of kit! set up now includes telecatser, 78 mustang bass, nord electro 2, macbook & sony  mdr   7506 .;0.5514414310455322;True
+410;Just got my nu headphones -  MDR   7506  - just realised how large they are - reflection of Chinese Shop window tells no lies;{'POSITIVE': True};Just got my nu headphones -  MDR   7506  - just realised how large they are - reflection of Chinese Shop window tells no lies;0.6059930324554443;True
+411;The Sony  MDR   7506  reveals the low quality that my mp3 are right now, there's a small huss sound that I never heard in low-fi headphones;{'POSITIVE': False};The Sony  MDR   7506  reveals the low quality that my mp3 are right now, there's a small huss sound that I never heard in low-fi headphones;0.4118511974811554;False
+412;Sony  MDR - 7506  headphones repaired with replacement earpads! No more black flaky stuff in my hair.  http://twitpic.com/2oadp;{'POSITIVE': True};Sony  MDR - 7506  headphones repaired with replacement earpads! No more black flaky stuff in my hair.  http://twitpic.com/2oadp;0.7947945594787598;True
+413;If anyone out there wants some Sony  MDR - 7506  DJ / Professional headphones, I'm selling one.  Holler at me.;{'POSITIVE': True};If anyone out there wants some Sony  MDR - 7506  DJ / Professional headphones, I'm selling one.  Holler at me.;0.7676395177841187;True
+414;djs/producers, if you use sony  mdr - 7506  or  mdr -v6. i highly HIGHLY recommend this upgrade: http://is.gd/kiA6 , your ears will thank you;{'POSITIVE': True};djs/producers, if you use sony  mdr - 7506  or  mdr -v6. i highly HIGHLY recommend this upgrade: http://is.gd/kiA6 , your ears will thank you;0.641038179397583;True
+415;Replacement headphones (Sony  MDR - 7506 ) arrived today, about a week ahead of schedule. Let the music playing begin (again).;{'POSITIVE': True};Replacement headphones (Sony  MDR - 7506 ) arrived today, about a week ahead of schedule. Let the music playing begin (again).;0.5397641658782959;True
+416;Review: Sony Sony  MDR7506  Review: Sony  MDR   7506  - Head Phones: Pretty much every person that comes to my .. http://tinyurl.com/8rbdlx;{'POSITIVE': True};Review: Sony Sony  MDR7506  Review: Sony  MDR   7506  - Head Phones: Pretty much every person that comes to my .. http://tinyurl.com/8rbdlx;0.8968029618263245;True
+417;my mom gave me a new pair of sony  mdr - 7506   -- i can work till my ears bleed, life is good again;{'POSITIVE': True};my mom gave me a new pair of sony  mdr - 7506   -- i can work till my ears bleed, life is good again;0.3371407091617584;False
+418;just bought a new pair of headphones . sony  mdr - 7506 . best headphones I've ever owned.. the last pair lasted 6 years.. and I used them ALOT;{'POSITIVE': False};just bought a new pair of headphones . sony  mdr - 7506 . best headphones I've ever owned.. the last pair lasted 6 years.. and I used them ALOT;0.4341871738433838;False
+419;Just bought a Snowball mic and an  MDR - 7506  for the next big project...more details coming soon!;{'POSITIVE': True};Just bought a Snowball mic and an  MDR - 7506  for the next big project...more details coming soon!;0.478456050157547;False
+420;Buy Sony Pro  MDR - 7506  Headphones online at Musician's Friend: Buy Sony Pro  MDR - 7506  Headphones online at M.. http://tinyurl.com/5e7286;{'POSITIVE': True};Buy Sony Pro  MDR - 7506  Headphones online at Musician's Friend: Buy Sony Pro  MDR - 7506  Headphones online at M.. http://tinyurl.com/5e7286;0.9320642352104187;True
+421;Just FYI: I swear by Sony  MDR7506  Headphones. $100 and you get what pro studios use. Beautiful sound, will last forever: http://is.gd/11H5;{'POSITIVE': False};Just FYI: I swear by Sony  MDR7506  Headphones. $100 and you get what pro studios use. Beautiful sound, will last forever: http://is.gd/11H5;0.7130404114723206;True
+422;oh mah gawd i love the bass in my sony  mdr - 7506 's. please let me never listen to tinny laptop speakers ever again. on now: RCRD LBL podcast.;{'POSITIVE': True};oh mah gawd i love the bass in my sony  mdr - 7506 's. please let me never listen to tinny laptop speakers ever again. on now: RCRD LBL podcast.;0.24454227089881897;False
+423;Shuffling Muse's Absolution and Black Holes & Revelations via iTunes this morning...great time to plug in the ole Sony  MDR - 7506 's;{'POSITIVE': True};Shuffling Muse's Absolution and Black Holes & Revelations via iTunes this morning...great time to plug in the ole Sony  MDR - 7506 's;0.3300016522407532;False
+424;new headphones pretty cool. sony  mdr - 7506 . not used to full heaphones though. my ears are sweating.;{'POSITIVE': True};new headphones pretty cool. sony  mdr - 7506 . not used to full heaphones though. my ears are sweating.;0.3946892321109772;False
+425;"I *heart* Sony  MDR - 7506 ! Love this photo (http://www.gregweddig.net/images/SONY7506.JPG) over ones where they float on bgcolor=""#FFFFFF """;{'POSITIVE': True};"I *heart* Sony  MDR - 7506 ! Love this photo (http://www.gregweddig.net/images/SONY7506.JPG) over ones where they float on bgcolor=""#FFFFFF """;0.22908622026443481;False
+426;oh and i got sony studio monitor headphones  mdr - 7506  for free, that ruled;{'POSITIVE': True};oh and i got sony studio monitor headphones  mdr - 7506  for free, that ruled;0.6482629179954529;True
+427;MDR - 7506 's + hot & humid = sweaty ears.  Sweaty ears = :(  However,  MDR - 7506  = :)  And clearly, :) =/= :(... so, where does that leave me?;{'POSITIVE': True};MDR - 7506 's + hot & humid = sweaty ears.  Sweaty ears = :(  However,  MDR - 7506  = :)  And clearly, :) =/= :(... so, where does that leave me?;0.8557552099227905;True
+428;I really want Sony  MDR - 7506  headphones but I know I shouldn't buy them!;{'POSITIVE': True};I really want Sony  MDR - 7506  headphones but I know I shouldn't buy them!;0.5493808388710022;True
+429;@ sweetums  I have sony  MDR - 7506 's, those are nice for about 100 bux;{'POSITIVE': True};@ sweetums  I have sony  MDR - 7506 's, those are nice for about 100 bux;0.33782336115837097;False
